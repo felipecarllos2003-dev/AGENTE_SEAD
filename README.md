@@ -7,16 +7,12 @@ Este projeto cria um assistente que responde perguntas com base nos seus documen
 1. Crie um virtualenv e instale as dependências:
 ```bash
 python -m venv venv
-source venv/bin/activate   # ou venv\Scripts\activate no Windows
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-2. Defina sua API key do Google AI Studio (Gemini). No Linux/macOS:
+2. Defina sua API key do Google AI Studio (Gemini).
 ```bash
-export GOOGLE_API_KEY="sua_chave_aqui"
-```
-No Windows (PowerShell):
-```powershell
 setx GOOGLE_API_KEY "sua_chave_aqui"
 ```
 
