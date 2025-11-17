@@ -1,0 +1,45 @@
+python --version
+
+
+python -m venv venv
+
+
+venv\Scripts\activate
+
+
+pip install -r requirements.txt
+print("✅ Biblioteca atualizada")
+
+
+setx GOOGLE_API_KEY "AIzaSyCcstDNaAShqseZ6QKYETqrDmCny3Bxw1I"
+
+
+python ingestao.py
+
+
+streamlit run app.py
+
+
+O comando anterior deverá abrir automaticamente o seu navegador.
+
+Se não abrir, geralmente é: http://localhost:8501.
+
+
+
+
+
+
+python list_models.py
+caso de falha no modelo do gemini, rodar a lista para trocar o modelo
+
+
+controll + C = parar de rodar no VSCODE
+
+
+
+executar na ordem
+python ingestao.py
+python verificar_base.py  # Diagnóstico atual
+python otimizar_base.py   # Recriar base melhorada
+python verificar_base.py  # Verificar melhorias
+streamlit run claro3.py
