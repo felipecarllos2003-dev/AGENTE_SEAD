@@ -1,0 +1,209 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Vale-transporte para
+servidor celetista
+
+
+
+
+                          Setembro/2024
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Legislação .................................................................................... 4
+
+Disposições Gerais ...................................................................... 5
+
+Procedimentos Gerais ................................................................ 7
+
+Lançamento no RHnet ................................................................ 8
+
+
+
+
+                             2
+
+
+
+
+                                                                                               2
+                         Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades administrativas e procedimentais relativas à
+concessão de vale-transporte para servidor celetista da
+Administração Pública direta, autárquica e fundacional do
+Poder Executivo.
+
+
+
+
+                        Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais   das      unidades   setoriais   de   gestão       e
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+                   3
+
+
+
+
+                                                            3
+                      Legislação
+
+
+Lei nº 7.418, de 16 de dezembro de 1985, que institui o Vale-
+transporte e dá outras providências.
+
+
+Decreto nº 10.854, de 10 de novembro de 2021, que
+regulamenta disposições relativas à legislação trabalhista
+e institui o Programa Permanente de Consolidação,
+Simplificação    e    Desburocratização       de    Normas
+Trabalhistas Infralegais e o Prêmio Nacional Trabalhista, e
+altera o Decreto nº 9.580, de 22 de novembro de 2018.
+
+
+
+
+                                                          4
+                                                       Disposições Gerais
+
+Conforme disposto na Lei nº 7.418/1985:
+
+Art. 1º Fica instituído o vale-transporte, (Vetado) que o empregador, pessoa
+física ou jurídica, antecipará ao empregado para utilização efetiva em despesas
+de deslocamento residência-trabalho e vice-versa, através do sistema de
+transporte coletivo público, urbano ou intermunicipal e/ou interestadual com
+características semelhantes aos urbanos, geridos diretamente ou mediante
+concessão ou permissão de linhas regulares e com tarifas fixadas pela
+autoridade competente, excluídos os serviços seletivos e os especiais.
+
+
+Art. 2º - O Vale-Transporte, concedido nas condições e limites definidos, nesta
+Lei, no que se refere à contribuição do empregador:
+a) não tem natureza salarial, nem se incorpora à remuneração para quaisquer
+efeitos;
+b) não constitui base de incidência de contribuição previdenciária ou de Fundo
+de Garantia por Tempo de Serviço;
+c) não se configura como rendimento tributável do trabalhador.
+...                                  5
+
+
+
+
+Art. 4º - A concessão do benefício ora instituído implica a aquisição pelo
+empregador     dos   Vales-Transporte    necessários    aos   deslocamentos   do
+trabalhador no percurso residência-trabalho e vice-versa, no serviço de
+transporte que melhor se adequar.
+Parágrafo único - O empregador participará dos gastos de deslocamento do
+trabalhador com a ajuda de custo equivalente à parcela que exceder a 6% (seis
+por cento) de seu salário básico.
+
+
+
+
+                                                                              5
+Conforme disposto no Decreto n° 10.854/2021:
+
+Art. 1º Este Decreto regulamenta disposições relativas à legislação trabalhista
+sobre os seguintes temas:
+(...)
+
+
+XIII - vale-transporte, nos termos do disposto na Lei nº 7.418, de 16 de dezembro
+de 1985;
+(...)
+
+
+Art. 106. São beneficiários do vale-transporte, nos termos do disposto na Lei nº
+7.418, de 1985, os trabalhadores em geral, tais como:
+I - os empregados, assim definidos no art. 3º da Consolidação das Leis do
+Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1943;
+(...)
+
+
+Art. 114. O vale-transporte será custeado:
+I - pelo beneficiário, na parcela equivalente a seis por cento de seu salário
+                                      6
+
+
+
+
+básico ou vencimento, excluídos quaisquer adicionais ou vantagens; e
+II - pelo empregador, no que exceder à parcela de que trata o inciso I.
+
+
+
+
+                                                                                6
+                                              Procedimentos Gerais
+
+1. Servidor deve autuar processo no SEI contendo o formulário próprio “Vale-
+  transporte – celetista – Modelo Rede”, anexar documentos pessoais e
+  comprovante de endereço e encaminhar para a Gerência de Gestão e
+  Desenvolvimento de Pessoas ou equivalente do órgão de lotação.
+
+
+2. GGDP analisa a documentação e verifica o direito do servidor ao benefício.
+
+
+3. Caso não tenha direito ao vale-transporte, os autos são devolvidos ao
+  servidor para ciência.
+
+
+4. Caso o servidor tenha direito, a GGDP fará o lançamento do benefício e do
+  desconto de 6%, mensalmente no Rhnet, de acordo com os dias úteis do
+  mês.
+
+
+
+
+Fluxograma do processo
+https://modeler.camunda.io/share/4168aa2b-77cf-4b9f-820c-95672d31ef48
+
+
+
+
+                                                                                7
+                                                  Procedimentos Gerais
+
+Lançamentos no Rhnet
+
+
+Para lançar a inclusão :
+Ir em Cadastro → Ocorrências servidor → Pagamento Especial → Em “Tipo
+Ocorrência Pagamentos e Deduções Especiais”→ ir em Vale-transporte (rubrica
+333) → Digitar o CPF do interessado e incluir → Preencher os dados, inclusive no
+Multiplicador informar quantas viagens o empregado irá receber conforme dias
+úteis no mês e salvar.
+
+
+
+
+Para lançar o desconto de 6% :
+Ir em Cadastro → Ocorrências servidor → Pagamento Especial → Em “Tipo
+Ocorrência Pagamentos e Deduções Especiais”→ ir em Vale-transporte Desconto
+(rubrica 674) → Digitar o CPF do interessado e incluir → Preencher os dados e
+salvar (o campo multiplicador deverá ser preenchido pelo mesmo valor que foi
+inserido no crédito, ou seja, os dias úteis para que o sistema faça o cálculo de 6%).
+
+
+
+
+ * Após o preenchimento, verificar se o demonstrativo de pagamento do servidor
+está correto.
+
+
+

@@ -1,0 +1,156 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Licença para desempenho
+de mandato classista
+
+
+
+
+                         Novembro/2024
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Legislação .................................................................................... 4
+
+Disposições Gerais ...................................................................... 5
+
+Procedimentos Gerais ................................................................ 6
+
+Lançamento no Rhnet ............................................................... 7
+
+
+
+
+                             2
+
+
+
+
+                                                                                            02
+                        Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades administrativas e procedimentais relativas à
+licença para desempenho de mandato classista dos
+servidores da Administração Pública direta, autárquica e
+fundacional do Poder Executivo.
+
+
+
+
+                       Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais   das     unidades    setoriais   de   gestão    e
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+                  3
+
+
+
+
+                                                        03
+                     Legislação
+
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+
+
+
+                                                      04
+                                                    Disposições Gerais
+
+Conforme disposto na Lei nº 20.756/2020:
+
+
+Art. 133. Ao servidor ocupante de cargo de provimento efetivo poderão ser
+concedidas as seguintes licenças:
+(...)
+X - para desempenho de mandato classista.
+Parágrafo único. As licenças de que tratam os incisos V a X deste artigo são de
+competência do titular do órgão ou entidade de origem do servidor, devendo,
+em caso de disposição ou cessão, o titular do órgão ou entidade requisitante
+ou cessionário remeter a solicitação à origem com manifestação prévia.
+
+
+Art. 164. É assegurado ao servidor estável o direito à licença sem remuneração
+para desempenho de mandato em central sindical, confederação, federação,
+associação de classe de âmbito estadual, sindicato representativo da
+categoria de servidores públicos estaduais ou entidade fiscalizadora da
+profissão, regularmente registrados no órgão competente.
+
+
+§ 1o O servidor ocupante de cargo de provimento em comissão ou designado
+para função comissionada deverá desincompatibilizar-se do cargo ou da
+função para usufruir a licença de que trata o caput deste artigo.
+§ 2o Poderão ser licenciados somente os servidores eleitos para cargos de
+presidente ou diretor das referidas entidades.
+§ 3o A licença terá duração igual à do mandato, podendo ser renovada, no caso
+de reeleição.
+§ 4o A licença de que trata o caput é considerada como de efetivo exercício,
+exceto para efeito de promoção por merecimento.
+
+
+Art. 166. A licença para desempenho de mandato em entidade fiscalizadora da
+profissão exige pertinência com as atribuições do cargo efetivo por ele
+ocupado.
+Art. 167. O servidor investido em mandato classista não poderá ser removido
+de ofício para localidade diversa daquela onde exerça o mandato.
+                                                                           05
+                                               Procedimentos Gerais
+
+
+1. Servidor autua processo no SEI, preenche o formulário de Requerimento de
+Licença para desempenho de mandato classista – Modelo Rede, assina, colhe a
+assinatura da chefia imediata, anexa documentação comprobatória que foi
+eleito para cargo de presidente ou diretor da referida entidade (ata de
+assembleia que o elegeu), estatuto da entidade, documentos pessoais e
+encaminha para a Gerência de Gestão e Desenvolvimento de Pessoas – GGDP ou
+equivalente do órgão de lotação.
+
+2. A GGDP ou equivalente do órgão de lotação do servidor verifica a
+documentação e:
+• Se for o órgão de origem do interessado, encaminha para o titular da pasta
+  elaborar despacho de concessão e devolve para a GGDP cientificar o servidor
+  e sua chefia imediata, lançar no RHNET e fazer o acerto.
+• Se for o órgão de lotação do interessado, encaminha para o titular da pasta
+  manifestar previamente e faz despacho de encaminhamento para GGDP do
+  órgão de origem;
+• GGDP do órgão de origem confere novamente a documentação, analisa e faz
+                                      6
+
+
+  despacho sugerindo a concessão da licença e encaminha para titular da pasta
+  elaborar despacho de concessão.
+• Titular da pasta faz despacho concessivo e devolve para a GGDP da origem
+  que enviará para GGDP de lotação cientificar o servidor e sua chefia imediata,
+  lançar no RHNET e fazer o acerto.
+
+
+
+
+                                                                           06
+                                          Procedimentos Gerais
+
+Lançamento no RHnet
+
+
+Ir em Cadastro → Ocorrência → Afastamento → 1161 Licença para Desempenho
+de Mandato Classista sem Remuneração → digitar CPF do servidor → Informar
+dados do despacho e processo → Incluir
+
+

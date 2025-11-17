@@ -1,0 +1,320 @@
+Secretaria de Estado da Administração
+Manual de
+Procedimentos
+Aposentadoria voluntária
+Novembro/2024
+
+The following table:
+"Objetivo
+","3
+"
+"Aplicação
+","3
+"
+"Legislação
+","4
+"
+"Disposições Gerais
+","5
+"
+"Conforme disposto na Lei $n^{\circ}20.756/2020.$
+","5
+"
+"Conforme disposto na Lei $n^{\circ}161/2020$..
+","7
+"
+"Procedimentos Gerais
+","10
+"
+"Documentação necessária
+",".10
+"
+"Procedimento para o Servidor.
+",".11
+"
+"Procedimento para o órgão de lotação.
+",".11
+"
+"Procedimento para o órgão de origem.
+",".11
+"
+"Procedimento da Goiasprev...
+",".12
+"
+"Lançamento no Rhnet e Fluxograma do processo.
+","13
+"
+
+Sumário
+2
+
+Objetivo
+O presente manual visa padronizar e direcionar as
+ atividades administrativas e procedimentais relativas à
+ concessão de aposentadoria voluntária na Administração
+ Pública direta, autárquica e fundacional do Poder Executivo.
+Aplicação
+Este manual tem abrangência no âmbito das competências
+ regimentais das unidades setoriais de gestão e
+ desenvolvimento de pessoas da Administração Pública
+ Estadual direta, autárquica e fundacional.
+3
+
+Legislação
+Lei $n^{\circ}$ 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+ regime jurídico dos servidores públicos civis do Estado de
+ Goiás, das autarquias e fundações públicas estaduais, e dá
+ outras providências.
+Lei $n^{\circ}$ 161, de 30 de dezembro de 2020, que dispõe sobre as
+ normas aplicáveis ao Regime Próprio de Previdência Social
+ do Estado de Goiás $RPPS/GO$, estabelece critérios,
+ procedimentos e requisitos para a concessão, a
+ manutenção, o pagamento e o custeio dos benefícios
+ previdenciários conferidos aos segurados e aos respectivos
+ dependentes, define as formas de financiamento, bem como
+ institui medidas que viabilizem o seu equilíbrio financeiro e
+ atuarial.
+Emenda Constitucional $n^{\circ}$ $103/2019$, altera o sistema de
+ previdência social e estabelece regras de transição e
+ disposições transitórias.
+Emenda Constitucional $65/2019$ modifica o sistema de
+ previdência social, estabelece regras de transição e
+ disposições transitórias, e dá outras providências
+4
+
+Conforme disposto na Lei nº 20.756/2020:
+Disposições Gerais
+Art. 178. Será feita em dias a apuração do tempo de serviço.
+Parágrafo único. O número de dias será convertido em anos, considerado o
+ano como de 365 (trezentos e sessenta e cinco) dias.
+Art. 179. A apuração é a liquidação do tempo de serviço público à vista dos
+ assentamentos do servidor, arquivados no órgão de pessoal responsável pela
+ guarda de documentos.
+Parágrafo único. Quando os assentamentos não oferecerem dados suficientes
+ que permitam uma segura apuração do tempo de serviço prestado, o órgão
+ responsável pelo levantamento deverá recorrer, subsidiariamente, ao registro
+ da frequência ou à folha de pagamento.
+Art. 180. Será contado para efeito de disponibilidade o tempo de serviço
+ prestado:
+I - sob qualquer forma de admissão, desde que remunerado pelos cofres
+ estaduais;
+II - a instituição de caráter privado que tiver sido encampada ou transformada
+em estabelecimento de serviço público;
+III - à União, ao Estado, ao Território, ao Município ou ao Distrito Federal;
+IV- às autarquias, fundações, empresas públicas e sociedade de economia
+mista sob o controle acionário do Estado;
+V - às Forças Armadas;
+VI - em atividades vinculadas ao regime geral de previdência.
+§ 1o O tempo de serviço será contado somente uma vez para cada efeito.
+§ 20 Não será contado o tempo de serviço que já tenha sido base para
+ concessão de aposentadoria por regime previdenciário.
+5
+
+Conforme informações no sítio eletrônico da GOIASPREV:
+A aposentadoria voluntária é uma das espécies de vacância do cargo público
+ que encerra o vínculo administrativo do servidor público efetivo e inicia o seu
+ vínculo previdenciário com o RPPS.
+Ela poderá ser requerida a partir do
+ atendimento simultâneo dos requisitos exigidos pelas leis vigentes.
+Os requisitos da aposentadoria voluntária são definidos conforme a data em
+ que o servidor implementar o direito.
+Assim, após a publicação da EC $n^{\circ}$
+ $103/2019$ e da EC estadual $n^{\circ}65/2019$, há três possibilidades temporais:
+1 - Servidores amparados pelo direito adquirido até 29/12/2019* - os segurados
+ do RPPS/GO que implementaram os requisitos para obter qualquer espécie de
+ aposentadoria, até a  data da publicação da EC estadual $n^{\circ}$ $65/2019$, podem
+ pedir o benefício a qualquer tempo, com garantia do cálculo e reajuste com
+ base na legislação vigente àquela época, conforme o art.
+$2^{\circ}$ da EC estadual $n^{\circ}$
+ 65/2019.
+2 - Servidores que já haviam ingressado no serviço público em cargo efetivo até
+ 29/12/2019* regras de transição - os segurados do RPPS/GO, em geral, que já
+ tinham ingressado no serviço público em cargo efetivo, até a *data da
+ publicação da EC estadual $n^{\circ}$ 65/2019, e ainda faltavam os requisitos para
+ aposentar, podem optar por uma das duas regras de transição abaixo descritas,
+ a saber: regra dos pontos ou do período adicional de contribuição, também
+ chamada de regra do pedágio, como segue:
+6
+
+Lei Complementar n° 161/2020 - REGRA DE TRANSIÇÃO DOS PONTOS
+Art. 71. O segurado do RPPS/GO que tenha ingressado no serviço público em
+ cargo efetivo até a data de entrada em vigor da Emenda Constitucional estadual
+ n° 65, de 21 de dezembro de 2019, poderá aposentar-se voluntariamente quando
+ preencher, cumulativamente, os seguintes requisitos:
+1-56 (cinquenta e seis) anos de idade, se for mulher, e 61 (sessenta e um) anos de
+ idade, se for homem, observado o disposto no § 1º deste artigo;
+II-30 (trinta) anos de contribuição, se for mulher, e 35 (trinta e cinco) anos de
+ contribuição, se for homem;
+III - 20 (vinte) anos de efetivo exercício no serviço público;
+IV-5 (cinco) anos no cargo efetivo em que se der a aposentadoria; e
+V
+ somatório da idade e do tempo de contribuição, incluídas as frações,
+ equivalente a 86 (oitenta e seis) pontos, se for mulher, e 96 (noventa e seis)
+ pontos, se for homem, observado o disposto nos §§ $2^{\circ}$ e 3º deste artigo.
+§ 1º A partir de 1º de janeiro de 2022, a idade mínima a que se refere o inciso I do
+ caput deste artigo será de 57 (cinquenta e sete) anos de idade, se for mulher, e
+ 62 (sessenta e dois) anos de idade, se for homem.
+§ $2^{\circ}$ A partir do ano de 2020, a pontuação a que se refere o inciso V do caput
+ deste artigo será acrescida de 1 (um) ponto, a cada ano, até atingir o limite de
+ 100 (cem) pontos, se for mulher, e de 105 (cento e cinco) pontos, se for homem.
+§ $3^{\circ}$ A idade e o tempo de contribuição serão apurados em dias para o cálculo do
+ somatório de pontos a que se refere o inciso V do caput e o § 2º deste artigo.[...]
+7
+
+Lei Complementar n° 161/2020 - REGRA DE TRANSIÇÃO DO PEDÁGIO
+Art. 72. O segurado do RPPS/GO que tenha ingressado no serviço público em
+ cargo efetivo até a data de entrada em vigor da Emenda Constitucional estadual
+ $n^{\circ}$ 65, de 2019, poderá aposentar-se voluntariamente quando preencher,
+ cumulativamente, os seguintes requisitos:
+1-57 (cinquenta e sete) anos de idade, se for mulher, e 60 (sessenta) anos de
+ idade, se for homem;
+II-30 (trinta) anos de contribuição, se for mulher, e 35 (trinta e cinco) anos de
+ contribuição, se for homem;
+III- 20 (vinte) anos de efetivo exercício no serviço público e 5 (cinco) anos no
+ cargo efetivo em que se der a aposentadoria;
+e
+IV- período adicional de contribuição correspondente ao tempo que, na data de
+ entrada em vigor da Emenda Constitucional estadual $n^{\circ}$ 65, de 2019, faltaria
+ para atingir o tempo mínimo de contribuição referido no inciso II deste artigo.
+[...]
+3 - Servidores que ingressaram no serviço público após 29/12/2019* - regra
+ permanente - os segurados do RPPS/GO, em geral, que tenham ingressado no
+ serviço público em cargo efetivo, após a *data da publicação da EC estadual nº
+ 65/2019, farão jus à aposentadoria voluntária conforme os requisitos da regra
+ permanente, como segue:
+8
+
+Lei Complementar n° 161/2020 - REGRA PERMANENTE
+Art. 68. O segurado ativo fará jus à aposentadoria voluntária por idade e
+ tempo de contribuição, desde que preencha,
+cumulativamente, os seguintes requisitos:
+1- 62 (sessenta e dois) anos de idade, se for mulher, e 65 (sessenta e cinco)
+ anos de idade, se for homem;
+e
+II- 25 (vinte e cinco) anos de contribuição, desde que cumprido o tempo
+ mínimo de 10 (dez) anos de efetivo exercício no serviço
+ público e de 5 (cinco) anos no cargo efetivo em que for concedida a
+ aposentadoria.
+Além das regras já mencionadas, há os servidores públicos efetivos que, em
+ virtude de autorização constitucional, podem se aposentar com requisitos
+ diferenciados para concessão do benefício, são eles:
+servidores com deficiência;
+servidores ocupantes dos cargos estaduais de agente penitenciário, de
+ agente socioeducativo ou de policial civil;
+servidores estaduais cujas atividades sejam exercidas com efetiva
+ exposição a agentes nocivos químicos, físicos e biológicos prejudiciais à
+ saúde, ou associação destes agentes;
+os servidores ocupantes do cargo estadual de professor que comprovem
+ tempo de efetivo exercício das funções de magistério na educação infantil
+ e no ensino fundamental e médio.
+Os requisitos das aposentadorias especiais supracitadas são os descritos no
+ art. 69 da Lei Complementar $n^{\circ}161/2020$
+9
+
+Procedimentos Gerais
+Documentação necessária para abertura do processo
+1. Requerimento de aposentadoria
+2. RG, CPF e comprovante de endereço atualizado (últimos 90 dias);
+3. Certidão COMPREV (se for o caso);
+4. CNIS Completo;
+5. CTPS completa (se for o caso);
+6. Certidão de Casamento (se for o caso);
+7. Declaração de Ciência do teor da Nota Técnica nº 02/2013 - PGE;
+8. Declaração de acumulação de cargos;
+9. Declaração de acumulação de benefícios;
+10. INFBEN, nos casos em que o servidor receba algum benefício do RGPS (Em
+ caso de recebimento de pensão por morte, apresentar a certidão de óbito);
+11. Para aposentadorias por incapacidade permanente para trabalho, com
+ alienação mental, solicitar o ato de interdição/curatela.
+Nesta hipótese, o
+ curador deverá assinar a declaração de acumulação de cargos.
+OBS.: Tratando-se de requerimento feito via procuração, é necessária a juntada
+ de cópia de RG e CPF do procurador e do outorgante com as respectivas firmas
+ reconhecidas.
+10
+
+Procedimento
+ 1. O Servidor, preferencialmente, deve procurar o atendimento na GGDP do
+ órgão de origem e preencher o Requerimento de Aposentadoria,
+ especificando qual regra deseja se aposentar, e juntar todos os documentos
+ obrigatórios listados acima.
+ * A regra precisa ser descrita conforme o dispositivo legal que se enquadra.
+ * Servidores que optarem pela regra da aposentadoria especial de pessoa
+ com deficiência devem esclarecer tal regra no requerimento.
+Após, a GGDP
+ do órgão de origem encaminhará o processo para a DESSS emitir laudo
+ pericial atestando o grau da deficiência.
+Posteriormente, os autos devem
+ retornar para a GGDP para instrução.
+ *Se o servidor optar por uma regra que não faz jus, a GGDP fará o despacho
+ comunicando o não preenchimento dos requisitos para a inativação,
+ juntando a Simulação emitida pelo site da GOIASPREV.
+ 2. O servidor deve acompanhar as atualizações no processo para dar ciência na
+ concessão/indeferimento ou atender a possíveis solicitações da GGDP.
+ 3. Após autuação, o processo é distribuído para o analista que, caso esteja
+ faltando algum dos pré-requisitos, notificará o servidor para atender a
+ solicitação.
+ 4. Estando em conformidade, a GGDP encaminhará o processo para a
+ Corregedoria do órgão de origem analisar se existe impedimento (PAD,
+ sindicância, TAC).
+A Corregedoria emite declaração/despacho de
+ regularidade.
+ 5. Após juntada das informações correicionais, a GGDP do órgão de origem
+ instrui o processo com a elaboração do Histórico Funcional no modelo da
+ GOIASPREV e todos os documentos necessários para a análise do feito
+ (listados no checklist https://goias.gov.br/goiasprev/wp 
+ content/uploads/sites/36/2022/04/Aposentatualizada-ea3.pdf).
+Finalizada a
+ instrução, os autos são remetidos à Gerência de Análise de Inatividade da
+ GOIASPREV.
+ 11
+ 11
+
+6. A GOIASPREV analisa o processo e, estando em conformidade, emite
+ Parecer favorável e publica a Portaria de Concessão de aposentadoria com a
+ assinatura do Presidente da pasta.
+Instrui o processo com a planilha de
+ cálculo, elabora o despacho com a fixação de proventos de acordo com a
+ regra escolhida e encaminha para o orgão de origem para devido
+ Apostilamento do Ato.
+7. Concomitantemente, a GOIASPREV encaminha email para o orgão de
+ origem e lotação, comunicando a inatividade e enviar, no RHNet, para a
+ GOIASPREV.
+8. A partir da publicação do ato, a GGDP de lotação faz o acerto financeiro do
+ servidor e aguarda.
+No momento em que receber o email da GOIASPREV,
+ altera o órgão pagador para a origem lançar a inatividade.
+9. A GGDP do órgão de origem realiza o apostilamento, com a fixação dos
+ proventos informados pela GOIASPREV.
+O documento deve ser assinado
+ pelo titular do órgão de origem.
+10. Com a apostila assinada, a GGDP de origem instrui o processo no SIAP e
+ envia para o TCE.
+11. O SIAP gera um comprovante de envio de processo, que deverá ser juntado
+ aos autos do SEI e, posteriormente, encerrado.
+12. O TCE analisa o processo dentro do sistema do SIAP.
+Após o registro da
+ aposentadoria, é reaberto o processo no SEI e juntado o caderno processual
+ do TCE, com o Acórdão de registro do ato de aposentadoria.
+O processo SEI
+ é encaminhado para a GOIASPREV, para conhecimento ou providências
+ referente a compensação previdenciária.
+13. Ao final de todo o processo, a GOIASPREV encaminha os autos à GGDP de
+ origem para arquivamento.
+ 12
+ 12
+
+Observação: Todos os cálculos de tempo de serviço informados no histórico
+ funcional deverão ser calculados pela Calculadora Previdenciária e anexado
+ aos autos o Relatório de Tempo Previdenciário.
+(https://calculadoraprevidenciaria-web.goiasprev.go.gov.br)
+ Lançamento no RHnet:
+ Cadastro → Ocorrências Servidor → Cadastro Funcional - (1136 – Transferência
+ para a Inatividades) → digita o CPF → data de início → Orgão de lotação incluir
+ o codigo 575 – GOIASPREV → Unidade Administrativa de exercício 18468 -
+ Gerência da folha de pagamento → diploma legal → informa o nº da portaria
+ de concessão → data da portaria → na Observação incluir o número do
+ processo SEI → OK
+ Fluxograma do processo:
+ Aposentadoria Voluntária
+ 13

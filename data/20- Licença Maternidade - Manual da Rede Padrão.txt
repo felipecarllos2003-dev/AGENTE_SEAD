@@ -1,0 +1,185 @@
+# Secretaria de Estado da Administração
+
+Manual de Procedimentos
+Licença-Maternidade
+
+Julho/2024
+
+# Sumário
+
+**Objetivo ...... 03**
+**Aplicação ...... 03**
+**Legislação ...... 04**
+**Disposições Gerais ...... 05**
+**Conforme disposto na Lei nº 20.756/2020 ...... 05**
+**Conforme disposto no Decreto nº 9.802/2021 ...... 08**
+**Procedimentos Gerais ...... 09**
+**Lançamento no RHnet ...... 11**
+**Fluxograma do processo ...... 13**
+
+# Objetivo
+
+O presente manual visa padronizar e direcionar as atividades administrativas e procedimentais relativas à concessão de licença-maternidade na Administração Pública direta, autárquica e fundacional do Poder Executivo.
+
+# Aplicação
+
+Este manual tem abrangência no âmbito das competências regimentais das unidades setoriais de gestão e desenvolvimento de pessoas da Administração Pública Estadual direta, autárquica e fundacional.
+
+# Legislação
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o regime jurídico dos servidores públicos civis do Estado de Goiás, das autarquias e fundações públicas estaduais, e dá outras providências.
+
+Decreto nº 9.802, de 26 de janeiro de 2021, que dispõe sobre a regulamentação dos procedimentos que envolvem a execução, a estruturação, a organização, a padronização e a gestão da folha de pagamento na administração direta, autárquica e fundacional do Poder Executivo do Estado de Goiás.
+
+# Disposições Gerais
+
+**Conforme disposto na Lei n° 20.756/2020:**
+
+**Art. 133. Ao servidor ocupante de cargo de provimento efetivo poderão ser concedidas as seguintes licenças:**
+**(...)**
+**III - maternidade;**
+
+**Art. 134. Ao servidor exclusivamente ocupante de cargo de provimento em comissão poderão ser concedidas as seguintes licenças:**
+**(...)**
+**III - maternidade;**
+
+**Art. 147. À servidora gestante e àquela que adotar ou obtiver a guarda judicial para fins de adoção de criança ou adolescente será concedida licença remunerada de 180 (cento e oitenta) dias, mediante apresentação de documento oficial comprobatório do nascimento ou termo oficial de adoção ou guarda.**
+
+§ 1º Salvo prescrição médica em contrário, caso em que poderá ser antecipada em até 28 (vinte e oito) dias do parto, a licença será concedida a partir da 36ª (trigésima sexta) semana gestacional, por prescrição médica.
+
+§ 2º No caso de natimorto ou de nascimento com vida seguido de óbito, a servidora reassumirá suas funções depois de decorridos 30 (trinta) dias do evento, caso seja julgada apta.
+
+# Disposições Gerais
+
+§ 3º No caso de aborto ocorrido entre a 1ª (primeira) e a 20ª (vigésima) semana gestacional atestado pela Junta Médica do Estado, a servidora terá direito a 30 (trinta) dias do benefício de que trata este artigo.
+
+§ 4º O período remanescente da licença remunerada de que trata o caput deste artigo será deferido ao servidor, mediante solicitação e comprovação documental, em caso de morte da mãe da criança ou de abandono da criança por sua mãe.
+
+§ 5º No caso de adoção ou obtenção de guarda judicial de criança ou adolescente, o benefício será deferido somente mediante apresentação de termo judicial de guarda à adotante ou guardiã, expedido pela autoridade judiciária competente.
+
+Art. 148. No caso de adoção ou obtenção de guarda judicial de criança ou adolescente por cônjuges ou companheiros, ambos servidores públicos estaduais ou sendo um policial ou bombeiro militar e o outro servidor público estadual, as licenças de que tratam o caput deste artigo e o art. 153 serão concedidas da seguinte forma:
+I - 180 (cento e oitenta) dias ao servidor adotante que assim o requerer;
+II - 20 (vinte dias) ao outro servidor ou militar, cônjuge ou companheiro adotante, que assim o requerer.
+
+# Disposições Gerais
+
+Art. 149. No caso de servidora comissionada, sem vínculo efetivo com a Administração, as despesas relativas aos últimos 60 (sessenta) dias da licença - maternidade correrão à conta dos recursos do tesouro do Estado de Goiás.
+
+Art. 150. Na hipótese de o período da licença - maternidade coincidir com o da fruição de férias, este será automaticamente alterado pela Administração para a data imediatamente posterior ao término da licença - maternidade.
+
+Art. 151. A servidora deverá comunicar imediatamente eventual revogação da guarda judicial, cessando a fruição da licença.
+
+Parágrafo único. A falta de comunicação acarretará a cassação da licença - maternidade, com a perda total da remuneração ou subsídio a partir da data da revogação da guarda judicial, sem prejuízo da aplicação das penalidades disciplinares cabíveis.
+
+Art. 152. Após o término da licença, a servidora disporá de uma hora por dia, que poderá ser parcelada em 2 (dois) períodos de 30 (trinta) minutos cada, para amamentação do filho, até os 12 (doze) meses de idade.
+
+# Disposições Gerais
+
+**Conforme disposto no Decreto n° 9.802/2021:**
+
+Art. 19. Em caso de emergência pública, calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento da saúde prejudicada, licença-maternidade ou licença-paternidade superveniente às férias em usufruto, a Unidade Setorial deverá incluir no sistema RHNet a ocorrência suspensiva ao afastamento vigente.
+
+Art. 20-A. A função comissionada ou a GRG será passível de substituição apenas nos casos de férias, luto, licença-maternidade, licença-paternidade, casamento e, até o limite de 120 (cento e vinte) dias, licença para o tratamento da própria saúde prejudicada, excluídos quaisquer outros, também deverá ser efetivada por portaria subscrita pelo titular do órgão ou da entidade para designar a substituição.
+
+# Procedimentos Gerais
+
+## Documentação necessária
+- Atestado médico;
+- Documentos pessoais do servidor;
+- Certidão de nascimento do filho, se for o caso.
+
+### Servidoras efetivas:
+
+1. Servidora autua processo no SEI, com a documentação comprobatória e encaminha os autos para Diretoria-Executiva de Saúde e Segurança do Servidor - DESSS.
+2. A DESSS analisa os autos, confere a documentação, emite o laudo e encaminha para a CGDP via sistema SALIS.
+3. Caso esteja faltando algum documento, os autos são retornados para ciência do servidor.
+4. Se estiver em conformidade, a CGDP lança no RHnet a licença, conforme laudo, elabora despacho de ciência e encaminha os autos para o servidor e sua chefia imediata.
+
+### Observações:
+- Caso a servidora esteja usufruindo férias e se dê a licença-maternidade, as férias serão suspensas. O restante do período suspenso será gozado de uma só vez, imediatamente após a cessação da licença.
+
+# Procedimentos Gerais
+
+## Servidoras comissionadas ou celetistas
+
+1. **Servidora encaminha a documentação comprobatória para a CGDP do órgão de lotação.**
+
+2. **A CGDP analisa os autos, confere a documentação, lança a licença no RHNet.**
+
+3. **Caso esteja faltando alguma documentação, a servidora é informada.**
+
+**Observações:**
+
+- Caso a servidora esteja usufruindo férias e se dê a licença-maternidade, as férias serão suspensas. O restante do período suspenso será gozado de uma só vez, imediatamente após a cessação da licença.
+
+# Procedimentos Gerais
+
+## Langamento no Rhnet
+
+### LICENÇA MATERNIDADE
+
+1. Para servidoras efetivas: **Lançar com 180 dias**
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de Ocorrência - código
+48 Licença maternidade → Digitar CPF → Incluir → Selecionar o servidor “Status
+Ativo” → Colocar a data de início e a data fim → Diploma Legal - Certidão de
+nascimento → Incluir → Sim → OK
+
+2. Para servidoras do Regime Geral de Previdência Social (INSS):
+
+2.1. Para comissionadas: Ao lançar a ocorrência 111, com 120 dias, o Rhnet
+automaticamente gera os outro 60 dias restantes.
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código
+111 Licença Maternidade → RCPS → Regime Geral de Previdência Social (INSS) →
+Digitar CPF Incluir → Selecionar o servidor “Status ativo” → Colocar a Data de
+Início e a Data fim → Diploma Legal → Certidão de nascimento → Incluir → Sim
+→ Ok
+
+2.2. Contrato Temporário e prorrogação da licença: Deve-se lançar as duas
+ocorrências, sendo a 111 com 120 dias e a 896 com os outros 60 dias restantes.
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código
+111 Licença Maternidade → RCPS → Regime Geral de Previdência Social (INSS) →
+Digitar CPF Incluir → Selecionar o servidor “Status ativo” → Colocar a Data de
+Início e a Data fim → Diploma Legal → Certidão de nascimento → Incluir → Sim
+→ Ok
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código
+896 Licença Maternidade → Prorrogação por Decisão Judicial Contrato
+Temporário → Digitar CPF Incluir → Selecionar o servidor “Status ativo” →
+Colocar a Data de Início e a Data fim → Diploma Legal → Certidão de nascimento
+→ No Campo Decisão Judicial Colocar o número do processo → Tipo de Ordem
+Judicial Definitiva → Incluir → Sim → Ok
+
+NATIMORTO OU ABORTO
+
+1. Para servidoras efetivas: Natinorto, deverá lançar com 30 dias
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de Ocorrência – código
+48 Licença maternidade → Digitar CPF → Incluir → Selecionar o servidor “Status
+Ativo” → Colocar a data de início e a data fim → Diploma Legal – Certidão de
+nascimento → Incluir → Sim → OK
+
+2. Para servidoras do Regime Geral de Previdência Social (INSS): Natinorto,
+deverá lançar a ocorrência 111 com 120 dias
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código
+111 Licença Maternidade → RGPS → Regime Geral de Previdência Social (INSS) →
+Digitar CPF Incluir → Selecionar o servidor “Status ativo” → Colocar a Data de
+Início e a Data fim → Diploma Legal → Certidão de nascimento → Incluir → Sim
+→ OK
+
+3. Para servidoras do Regime Geral de Previdência Social (INSS): Aborto, deverá
+lançar a ocorrência 1615 com 14 dias (que são os dias pagos pelo INSS) e depois
+lançar a ocorrência 1616 com 16 dias para completar os 30 dias totais.
+
+ADOÇÃO OU GUARDA JUDICIAL
+
+Para servidoras efetivas E servidoras do Regime geral de Previdência Social (INSS):
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código 1549 Licença Maternidade → Adoção ou Guarda Judicial de Criança → 120 dias → RGPS (INSS) → Digitar CPF Incluir → Selecionar o servidor “Status ativo” → Colocar a Data de Início e a Data fim → Diploma Legal → Certidão de nascimento → Incluir → Sim → Ok
+
+e
+
+Cadastro → Ocorrência Servidor → Afastamento → Tipo de ocorrência → Código 1550 Licença Maternidade → Adoção ou Guarda Judicial de Criança (60 dias) → RGPS (INSS) → Digitar CPF Incluir → Selecionar o servidor “Status ativo” → Colocar a Data de Início e a Data fim → Diploma Legal → Certidão de nascimento → Incluir → Sim → Ok

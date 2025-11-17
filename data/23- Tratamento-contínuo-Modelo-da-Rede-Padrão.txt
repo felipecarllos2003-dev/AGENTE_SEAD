@@ -1,0 +1,191 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Tratamento de saúde
+contínuo
+
+
+
+
+                         Fevereiro/2025
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Legislação .................................................................................... 4
+
+Procedimentos Gerais ................................................................ 5
+
+Lançamento no RHnet ................................................................ 8
+
+
+
+
+                             2
+
+
+
+
+                                                                                            02
+                        Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades administrativas e procedimentais relativas a
+liberação de servidor para tratamento de saúde contínuo
+na Administração Pública direta, autárquica e fundacional
+do Poder Executivo.
+
+
+
+
+                       Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais   das     unidades   setoriais   de   gestão   e
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+                  3
+
+
+
+
+                                                      03
+                     Legislação
+
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+
+Decreto nº 8.465, de 05 de outubro de 2015, que
+regulamenta o controle de frequência do servidor da
+administração direta, autárquica e fundacional do Poder
+Executivo.
+
+
+Instrução Normativa n° 009/2015-GAB, que dispõe sobre
+normas complementares do sistema de registro e controle
+eletrônico da frequência dos servidores públicos da
+Administração direta, autárquica e fundacional do Poder
+Executivo e dá outras providências.
+
+
+
+
+                                                      04
+                                                Procedimentos Gerais
+
+Dos requisitos para abono de horas para tratamento de saúde
+contínuo
+
+
+1. Poderão ser abonados os afastamentos do servidor motivados por submissão
+à sessões de tratamento de saúde contínuo, seja para si ou de seus
+dependentes legais, desde que solicitado e devidamente justificado por
+relatórios médicos ou odontológicos.
+
+
+2. Na hipótese de o número de sessões de tratamento de saúde contínuo
+ultrapassar o limite de horas correspondente a 3 (três) jornadas diárias integrais
+no mês, o servidor ou seus dependentes legais deverão ser avaliados pela Junta
+Médica Oficial do Estado.
+
+
+3. Deverão ser comprovados a realização do tratamento específico ou
+muldisciplinar por meio de Declaração de Comparecimento do profissional de
+saúde responsável.
+
+
+4. O abono de horas não autoriza o afastamento durante todo o período da
+jornada de trabalho do servidor.
+
+
+5. O número de horas de trabalho que poderão ser abonadas insere-se no
+campo da discricionariedade da autoridade administrativa, que deve ser
+respaldada, em critérios técnicos, com base na avaliação da Junta Médica
+Oficial.
+
+
+
+
+                                                                            05
+                                              Procedimentos Gerais
+
+
+1. Autuação da Solicitação: Servidor autua o processo no SEI preenche e assina o
+requerimento “Tratamento de saúde contínuo – Modelo Rede”, anexa
+documentos pessoais,     comprovante de endereço e relatório do médico ou
+odontólogo assistente.
+
+
+Obs.: O relatório do médico ou odontólogo assistente deverá conter as
+seguintes informações:
+     • Diagnóstico com CID-10 ou CID-11.
+     • Indicação do tratamento terapêutico proposto para melhoria da saúde.
+     • Quantidade de sessões necessárias, sua periodicidade semanal e/ou
+       mensal.
+Caso o servidor já esteja em tratamento específico ou multidisciplinar, é
+necessário anexar Relatório de Acompanhamento e/ou Declaração de
+Comparecimento assinado pelo profissional de saúde responsável.
+
+
+2. Encaminhamento do Processo: o processo deverá ser enviado à Diretoria
+Executiva de Saúde e Segurança do Servidor - DESSS, unidade SEI 02820, para
+realização de perícia médica pela Gerência Central de Saúde e Segurança do
+Servidor (GECSSS).
+
+
+3. Emissão de Laudo Médico Pericial: após a emissão do Laudo Médico Pericial, o
+processo será encaminhado à GGDP ou à unidade equivalente do órgão de
+lotação do servidor.
+
+
+4. Deliberação do órgão: com base no laudo da Junta Médica Oficial, o processo
+será encaminhado ao Titular da Pasta ou à autoridade por ele designada, para
+decisão sobre a liberação do servidor, fundamentada no referido laudo.
+
+
+                                                                          06
+                                             Procedimentos Gerais
+
+
+
+5. Declarações de Comparecimento: concedido o benefício, o servidor deverá
+enviar as declarações de comparecimento referentes às sessões do tratamento
+realizado, seja ele específico ou multidisciplinar, para a GGDP ou unidade
+equivalente, para fins de justificativa de ausência no trabalho no prazo de 03
+(três) dias úteis do afastamento.
+
+
+6. Registro no RHnet: A GGDP ou unidade equivalente registrará essas
+informações no sistema RHnet.
+
+
+
+
+                                                                        07
+                                               Procedimentos Gerais
+
+
+Lançamento no RHnet
+
+
+1. Acesse o menu: Cadastro → Ocorrência → Frequência.
+2. Selecione a Ocorrência 242.
+3. Digite o CPF do interessado e clique em "Pesquisar".
+4. Quando o nome do servidor aparecer, selecione o vínculo correspondente.
+5. Abra a opção ”Motivo Abono de Frequência” e busque pelo código 19         -
+“Tratamento Contínuo ou Realização de Exames”.
+7. Preencha os dados do diploma legal.
+8. Informe a data e a quantidade de horas a serem abonadas.
+9. Clique em Incluir para finalizar o lançamento.

@@ -1,0 +1,436 @@
+Secretaria de Estado da Administração
+Manual de
+Procedimentos
+GRG-PES e FCRG-PES
+2ª edição
+Julho/2025
+
+The following table:
+"Objetivo
+
+
+3
+"
+"Aplicação
+
+
+3
+"
+"Legislação
+
+
+4
+"
+"01. Quem poderá perceber a GRG-PES e a FCRG-PES.. 5
+"
+"02. Como comprovar a experiência/capacitação na área
+"
+"de atuação
+
+
+7
+"
+"03. Emissão do ato de concessão da GRG-PES ou da FCRG-
+"
+"PES
+
+
+8
+"
+"04. Validação e pagamento da GRG-PES ou FCRG-PES ....... 9
+"
+"05. Grupo de atribuições relativas às coordenações /
+"
+"supervisões da rede de pessoas
+
+
+10
+"
+"06. Porte dos órgãos e entidades
+
+
+11
+"
+"07. Distribuição das coordenações e supervisões
+ 12
+"
+"08. Valores da GRG-PES e da FCRG-PES
+
+
+13
+"
+"09. Avaliação periódica de desempenho
+
+
+14
+"
+"10. Procedimentos gerais de concessão
+
+
+15
+"
+"11. Lançamento no RHnet
+
+
+16
+"
+"12. Procedimentos gerais para parametrização do RHnet.17
+"
+
+Sumário
+2
+
+Objetivo
+O presente manual visa padronizar e direcionar as
+ atividades administrativas e procedimentais relativas à
+ concessão de Gratificação ou Função Comissionada do
+ Sistema Estruturador da Rede de Gestão de Pessoas na
+ Administração Pública direta, autárquica e fundacional do
+ Poder Executivo.
+Aplicação
+Este manual tem abrangência no âmbito das
+ competências regimentais das unidades centrais e
+ setoriais de gestão e desenvolvimento de pessoas da
+ Administração Pública Estadual direta, autárquica e
+ fundacional.
+3
+
+Legislação
+Lei $n^{\circ}$ 21.792, de 16 de fevereiro de 2023, que estabelece a
+ organização administrativa básica do Poder Executivo e dá
+ outras providências, com alterações dadas pela Lei nº 22.447, de
+ 7 de dezembro de 2023.
+Decreto $n^{\circ}$ 10.263, de 19 de maio de 2023, que regulamenta o
+ Sistema Estruturador das Redes de Gestão SIGES, instituído
+ pela Lei estadual nº 21.792, de 16 de fevereiro de 2023.
+Decreto $n^{\circ}$ 10.275, de 22 de junho de 2023, que integra a Rede de
+ Gestão de Pessoas ao Sistema Estruturador das Redes de Gestão
+SIGES, regulamenta a designação para o exercício das
+ atribuições e das responsabilidades diferenciadas e a
+ concessão da Gratificação das Redes de Gestão de Pessoas,
+ instituídas pela Lei estadual nº 21.792, de 16 de fevereiro de 2023,
+ revigora o Programa MOVE Goiás na administração direta,
+ autárquica e fundacional do Poder Executivo e revoga o Decreto
+ estadual nº 9.462, de 11 de julho de 2019.
+Portaria $n^{\circ}$ 1140 de 23 de junho de 2023, que dispõe sobre os
+ portes dos órgãos e entidades, nos termos do Decreto $n^{\circ}$ 10.275,
+ de 22 de junho de 2023, publicada no Suplemento do Diário
+ $Oficial/GOn^{\circ}24.065$.
+Portaria nº 1.972, de 19 de setembro de 2024, que dispõe sobre a
+ avaliação periódica de desempenho nos termos do Decreto $n^{\circ}$
+ 10.275, de 22 de junho de 2023, que regulamenta a concessão da
+ Gratificação e da Função Comissionada da Rede de Gestão de
+ Pessoas, instituída pela Lei nº 21.792, de 16 de fevereiro de 2023.
+Portaria $n^{\circ}$ 458, de 06 de março de 2025, que altera o anexo
+ único da Portaria nº 1972, de 19 de setembro de 2024, publicada
+ no Diário Oficial/GO n° 24.378, de 23 de setembro de 2024.
+4
+
+O que são?
+São gratificações e funções comissionadas destinadas a incentivar o
+ aprimoramento da qualidade das entregas e das atividades executadas pelos
+ servidores que atuam nas unidades centrais, setoriais e correlatas de gestão e
+ desenvolvimento de pessoas, no âmbito do Poder Executivo Estadual.
+01. Quem poderá perceber a GRG-PES e a FCRG-PES:
+Poderá perceber a GRG-PES o servidor designado para o exercício de
+ atribuições e responsabilidades diferenciadas, de acordo com as
+ especificidades da área de atuação e a faixa de complexidade correspondente,
+ desde que cumpridos os seguintes critérios: tenha no mínimo experiência de 6
+ (seis) meses e/ou capacitação profissional de 40 (quarenta) horas na área de
+ pessoal.
+A Gratificação do Sistema Estruturador das Redes de Gestão - GRG-PES será
+ concedida aos servidores efetivos, comissionados, aos empregados públicos
+ permanentes e ao pessoal contratado por tempo determinado, em exercício
+ na administração direta, autárquica e fundacional do Poder Executivo
+ estadual e lotados nas unidades centrais, setoriais ou correlatas do Sistema
+ das Redes de Gestão, não sendo devida aos servidores efetivos remunerados
+ por subsídio.
+5
+
+i
+Caso as atribuições e as responsabilidades
+ diferenciadas sejam desempenhadas por servidor
+ remunerado por subsídio, poderá ser atribuída a ele
+ Função Comissionada do Sistema Estruturador das
+ Redes de Gestão (FCRG) de valor e símbolo
+ equivalentes à GRG, e esse servidor será submetido às
+ mesmas exigências para a designação e a manutenção
+ da referida gratificação.
+É vedada a designação para percepção da GRG-PES
+ ou FCRG-PES a servidor efetivo ocupante de cargo
+ em comissão de direção, chefia ou assessoramento,
+ ou sua acumulação com outra gratificação de mesma
+ natureza, ainda que sob outra denominação, ou com
+ função comissionada.
+A GRG-PES e a FCRG-PES são passíveis de substituição, porém, o servidor
+ designado para substituir o titular da GRG-PES/FCRG-PES deverá comprovar
+ os mesmos requisitos de experiência e/ou capacitação e deverá ter sua
+ indicação validada pela Subsecretaria de Gestão e Desenvolvimento de
+ Pessoas.
+6
+
+02. Como comprovar a experiência/capacitação na área de atuação:
+Por meio de declaração da unidade setorial de gestão de pessoas ou
+ equivalente, ou qualquer documento que comprove ter pelo menos 6 (seis)
+ meses de desempenho de atividades na área de pessoal no serviço público
+ ou privado, considerando-se os últimos 10 (dez) anos.
+A capacitação profissional na área de pessoal deverá ser de pelo menos 40
+ (quarenta) horas e será aferida pela certificação de cursos de
+ aperfeiçoamento, de especialização e de participação em treinamentos,
+ seminários, congressos, relacionados às atividades desempenhadas e
+ ofertados pela Escola de Governo ou por instituição de ensino formalmente
+ estabelecida.
+Lembrando que será exigida ao servidor designado
+ para o exercício das atribuições e responsabilidades
+ diferenciadas na área de gestão e desenvolvimento
+ de pessoas a participação no Programa de
+ Certificação da respectiva área de atuação, oferecido
+ pela Escola de Governo.
+A documentação comprobatória de experiência e/ou capacitação deverá ser
+ encaminhada, via SEI, para a Gerência da Rede de Gestão e
+ Desenvolvimento de Pessoas (Unidade 21254) para validação pelo titular da
+ Subsecretaria de Gestão e Desenvolvimento de Pessoas, da Secretaria de
+ Estado da Administração - SEAD, antes da emissão do ato concessivo pelo
+ órgão de lotação do servidor.
+7
+
+03. Emissão do ato de concessão da GRG-PES ou FCRG-PES:
+A designação será efetivada por ato do titular:
+1 - do órgão Central de Gestão de Pessoal, referente às unidades centrais da
+ Rede de Gestão de Pessoas; e
+II - do respectivo órgão ou da entidade de lotação, referente às unidades
+ setoriais e correlatas da Rede de Gestão de Pessoas.
+!
+A designação só poderá ser efetivada após a
+ validação dos requisitos pela Subsecretaria de Gestão
+ e Desenvolvimento de Pessoas.
+Além disso, é vedada a designação com data
+ retroativa, devendo se atentar ao cronograma de
+ fechamento da folha de pagamentos.
+A portaria de designação independe de publicação
+ no Diário Oficial do Estado.
+Informações que devem conter no ato de concessão da GRG-PES e FCRG-
+ PES:
+1 - o órgão e a unidade administrativa de lotação que receberá a GRG-PES ou
+ FCRG-PES
+II - o nível da GRG-PES ou FCRG-PES
+III - se a FCRG ou a GRG é de unidade central, setorial ou correlata
+IV - a área de atuação
+V-as atribuições a serem desempenhadas.
+VI - identificação do servidor: nome, CPF e cargo.
+8
+
+04. Validação e pagamento da GRG-PES ou FCRG-PES:
+As unidade de gestão e desenvolvimento de pessoas ou
+ equivalente definirá servidor a ser designado para
+ determinada atribuição, autuará processo e encaminhará
+ para a unidade 21254 Gerência da Rede de Gestão e
+ Desenvolvimento de Pessoas - para providenciar a validação
+ da Unidade Central.
+!
+Lembrando que, antes da designação, a unidade setorial de
+ gestão e desenvolvimento de pessoas ou equivalente deverá
+ solicitar ao servidor designado as certidões elencadas abaixo:
+ Certidão Criminal e Cível Estadual e Federal:
+ http://www.tjgo.jus.br e http://www.trfl.jus.br
+Certidão de Contas Julgadas Irregulares do Tribunal de
+ Contas dos Municipios: http://www.tcm.go.gov.br
+Certidão de Contas Julgadas Irregulares do Tribunal de
+ Contas do Estado de Goiás: http://www.tce.go.gov.br
+Certidão de Quitação Eleitoral: http://www.tre-go.jus.br
+Certidão Negativa de Débitos com a Secretaria de Estado da
+Fazenda de Goiás: http://www.sefaz.go.gov.br
+Certidão Negativa de Débito inscrito em Dívida Ativa não
+ Tributária:
+- https://www.go.gov.br/servicos-digitais/procuradoria/emitir-
+ certidao/consulta-emissao-certidao
+Não há necessidade de exigência de certidões ao servidor
+ substituto.
+9
+
+05. Grupo de atribuições relativas às coordenações / supervisões da
+ rede de pessoas:
+
+The following table:
+"Capacitação
+"
+"Direitos e benefícios
+"
+"Gestão do conhecimento e competências
+ Gestão documental
+ Folha de pagamento
+ Frequência
+ Perfil e alocação de pessoas
+"
+
+
+
+
+"Carreiras e desenvolvimento profissional
+ Recrutamento e seleção
+ Aquelas dispostas no Regulamento do órgão
+"
+
+
+10
+
+
+06. Porte dos órgãos e entidades: 
+ A classificação do porte das unidades setoriais da Rede de Gestão de
+ Pessoas, por órgão ou entidade, foi estabelecida por ato do titular da
+ Secretaria de Estado da Administração, a partir de matriz com critérios
+ objetivos que diferenciem o volume de trabalho e a complexidade das
+ entregas e atividades desempenhadas para as atribuições.
+
+Essa classification foi definida na Portaria n° 1140
+ de 23 de junho de 2023, publicada no Diário
+ Oficial/GO n° 24.067, de 26 de junho de 2023, e
+ poderá ser revisada periodicamente à critério da
+ Secretaria de Estado da Administração.
+11
+ 11
+
+
+07. Distribuição das coordenações e supervisões:
+ A distribuição das coordenações e supervisões da Rede de Gestão de
+ Pessoas será realizada de acordo com o porte das unidades, o qual terá os
+ seguintes quantitativos de coordenações e supervisões:
+ Porte 1: equivalente a 06 (seis) coordenações
+ Porte 2: equivalente a 04 (quatro) coordenações
+ Porte 3: equivalente a 02 (duas) coordenações e 01 (uma) supervisão
+ Porte 4: equivalente a 01 (uma) coordenação e 01 (uma) supervisão
+ 12
+
+
+08. Valores da GRG-PES e da FCRG-PES:
+ Os valores das gratificações serão de R$ 3.000,00
+ (três mil reais) para coordenações e de R$ 1.500,00
+ (hum mil e quinhentos reais) para supervisões.
+
+As coordenações poderão ser divididas em
+ supervisões, e as supervisões poderão ser juntadas
+ para formar coordenações, conforme a
+ complexidade e o volume de cada processo ou
+ atividade desenvolvidos no órgão ou entidade.
+As divisões e as junções deverão ser justificadas, e,
+ caso as atribuições e as responsabilidades
+ diferenciadas não correspondam às enumeradas no
+ art.
+8º do Decreto, deverão ser indicadas
+ necessariamente quais competências da área de
+ gestão e desenvolvimento de pessoas estão
+ abrangidas em cada caso.
+
+Somente os processos que chegarem à unidade
+ central responsável pelo Sistema de Recursos
+ Humanos - RHnet até o dia 25 de cada mês serão
+ processados e disponibilizados para designação a
+ partir do dia 1º do mês seguinte.
+
+13
+
+
+09. Avaliação periódica de desempenho:
+ Ocorrerá no mês seguinte àquele que o servidor
+ completar 6 (seis) meses de designação, por meio de
+ autoavaliação pelo servidor designado e avaliação
+ pela chefia imediata, e, na impossibilidade, pela
+ chefia mediata.
+Será dispensada nos casos dos substitutos durante o
+ afastamento do titular, caso a substituição seja por
+ período menor do que 6 (seis) meses.
+Requisitos avaliados: iniciativa, relacionamento interpessoal,
+ comprometimento com o trabalho, eficiência, integração na Rede de Gestão
+ de Pessoas.
+
+
+
+14
+
+A avaliação periódica de desempenho será
+ realizada por meio dos formulários desenvolvidos
+ pela SEAD:
+ - Autoavaliação – Rede de Gestão de Pessoas
+ - Avaliação pela Chefia – Rede de Gestão de
+ Pessoas.
+Os formulários serão encaminhados à Gerência da
+ Rede de Gestão e Desenvolvimento de Pessoas da
+ SEAD (Unidade SEI 21254) até o dia 10 do mês de
+ avaliação.
+
+
+10. Procedimentos gerais para concessão:
+ 1. Após a definição dos servidores que serão coordenadores/supervisores, a
+ GGDP ou equivalente deverá solicitar as certidões elencadas na pág 9.
+ 2. Caso as certidões estejam em conformidade, a GGDP deverá autuar
+ processo no SEI com a indicação dos servidores para as respectivas
+ coordenações/supervisões e os documentos comprobatórios de
+ experiência e/ou capacitação e encaminhar para a Gerência da Rede de
+ Gestão e Desenvolvimento de Pessoas - GRGDP (unidade SEI 21254) para
+ validação.
+3. Após a análise da GRGDP, os autos serão devolvidos à GGDP que, em caso
+ de validação efetivada, deverá providenciar a Portaria de concessão da
+ GRG-PES (ou FCRG-PES).
+4. Com a Portaria assinada, a GGDP ou equivalente deverá realizar o
+ lançamento no RHnet e envio dos autos ao servidor designado para
+ ciência.
+OBS.: No processo de comparativo deverá ser anexado, além da portaria de
+ designação, o despacho de validação pela Subsecretaria de Gestão e
+ Desenvolvimento de Pessoas da SEAD.
+OBS.: Casos de revogação da Portaria de concessão de GRG-PES ou FCRG 
+ PES também deverão ser encaminhados à Gerência da Rede de Gestão e
+ Desenvolvimento de Pessoas para conhecimento.
+15
+ 15
+
+
+11. Lançamento no RHnet:
+ Se for GRG-PES:
+ Cadastro → Ocorrências servidor → Pagamento Especial → Tipo Ocorrência:
+ Pagamento e Deduções Especiais Código 1490 (Gratificação das Redes de
+ Gestão de Pessoas – GRG-PES) → Digitar CPF → Incluir → Selecionar o vínculo
+ ativo → Inserir o primeiro dia do mês que ocorrerá o pagamento em Data de
+ Início Pagamento → Diploma legal: 8 Portaria → Número: XX → Data:
+ XX/XX/XX → Data Publicação: XX/XX/XX → Gratificação das Redes de Gestão
+ de Pessoas – GRG-PES – selecione de acordo com a Portaria → OK →
+ Histórico: Colocar o número da Portaria e 
+do processo → OK
+ Se for FCRG-PES:
+ Cadastro → Ocorrências servidor → Pagamento Especial → Tipo Ocorrência:
+ Pagamento e Deduções Especiais Código 1572 (Função Comissionada do
+ Sistema Estruturador das Redes de Gestão - Pessoas – FCRG-PES) → Digitar
+ CPF → Incluir → Selecionar o vínculo ativo → Inserir o primeiro dia do mês
+ que ocorrerá o pagamento em Data de Início Pagamento → Diploma legal: 8
+ Portaria → Número: XX → Data: XX/XX/XX → Data Publicação: XX/XX/XX →
+ Função Comissionada do Sistema Estruturador das Redes de Gestão -
+ Pessoas – FCRG-PES– selecione de acordo com a Portaria → OK → 
+Histórico:
+ Colocar o número da Portaria e do processo → OK
+ 16
+ 16
+
+
+12. Procedimentos gerais para parametrização do RHnet:
+ 1. A GGDP deverá realizar o acerto financeiro e a exclusão da GRG-PES /
+ FCRG-PES no Rhnet, autuar processo no SEI e encaminhar para a
+ Gerência de Gestão do Sistema de Pessoal (unidade SEI 14325) para
+ parametrização no sistema.
+2. Após a parametrização, a GGDP deverá encaminhar autos para a
+ Gerência da Rede de Gestão e Desenvolvimento de Pessoas para
+ validação.
+Nos autos devem conter a indicação dos servidores que serão
+ designados para as novas coordenações/supervisões informando se
+ serão concedidas GRG-PES ou FCRG-PES, e anexadas as devidas
+ certidões.
+3. Com a devida validação, os autos serão devolvidos à GGDP para
+ providências quanto ao procedimento emissão de portaria de concessão
+ a ser assinada pelo titular da Pasta de lotação dos servidores designados.
+17
+ 17
+ Obs.: Lembrando que, para que a Gerência de Gestão
+ do Sistema de Pessoal realize a parametrização no
+ RHnet, as vagas devem estar desocupadas.
+Assim,
+ imprescindível a realização do acerto financeiro e da
+ exclusão no RHnet antes do envio dos autos àquela
+ gerência.

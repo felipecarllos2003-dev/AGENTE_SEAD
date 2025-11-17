@@ -1,0 +1,199 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Integração do SALIS e
+RHnet
+
+
+
+
+                         Janeiro/2025
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Disposições Gerais ..................................................................... 4
+
+Procedimentos Gerais ................................................................ 5
+
+Orientações Complementares ................................................. 7
+
+
+
+
+                             2
+
+
+
+
+                                                                                               2
+                          Objetivo
+
+A partir de 03 de fevereiro de 2025, inicia-se a primeira fase
+do   projeto   de       integração    entre      o    Sistema      de
+Acompanhamento à Licença do Servidor (SALIS) e o Sistema
+de Recursos Humanos do Estado de Goiás (RHnet). Este
+manual tem como objetivo orientar os envolvidos sobre os
+procedimentos necessários para a operacionalização desta
+integração.
+
+
+
+
+                         Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais    das      unidades     setoriais       de   gestão       e
+                    3
+
+
+
+
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+
+
+
+
+                                                                   3
+                                               Disposições Gerais
+
+Principais Alterações na Gestão de Licenças Médicas
+
+
+1. Registros Automáticos:
+Nesta primeira fase, apenas as licenças primárias homologadas no SALIS serão
+registradas automaticamente no RHnet. As prorrogações de licenças deverão
+ser cadastradas manualmente pelas GGDPs ou unidades equivalentes.
+
+
+
+2. Período de Processamento da Folha:
+Durante o período de fechamento da folha de pagamento, o Rhnet fica
+bloqueado para novas ocorrências, as novas licenças homologadas no SALIS
+não serão registradas automaticamente. Neste caso, as GGDPs ou unidades
+equivalentes deverão realizar os registros diretamente no RHnet.
+
+
+
+3. Acompanhamento:
+As GGDPs ou unidades equivalentes devem monitorar os relatórios do SALIS
+para verificar se os registros no RHnet foram realizados corretamente e
+realizar, caso necessário, os lançamentos devidos.
+
+
+
+
+                                                                        4
+                                        Procedimentos Gerais
+
+Pela Diretoria Executiva de Saúde e Segurança do Servidor (DESSS):
+
+1. Homologação de Licenças no SALIS:
+Após a homologação, as licenças primárias serão lançadas automaticamente
+ao RHnet, criando uma ocorrência correspondente.
+
+
+2. Envio de Relatórios:
+O SALIS continuará enviando informações sobre novas licenças por e-mail
+para GGDPs ou unidades equivalentes, desde que os dados estejam
+previamente cadastrados e atualizados no sistema.
+
+
+
+
+Pelas GGDPs ou Unidades Equivalentes:
+
+1. Verificação de Registros:
+Confirmar se as ocorrências do SALIS foram devidamente registradas no
+RHnet.
+
+
+2. Correção de Registros:
+Em caso de ausência ou registro inadequado, realizar as adequações
+necessárias para garantir a conformidade.
+
+
+3. Monitoramento de Relatórios:
+Consultar regularmente os relatórios do SALIS para acompanhamento das
+licenças homologadas.
+
+
+
+
+                                                                     5
+                                         Procedimentos Gerais
+
+OBSERVAÇÔES:
+Quando a GGDP ou equivalente necessitar de efetuar lançamentos manuais
+no RHnet:
+
+
+Cadastro - Ocorrências Servidor – Afastamento:
+- 57 Licença para Tratamento de Saúde - RGPS (INSS)
+- 284 Licença para Tratamento de Saúde
+- 425 Prorrogação de Licença para Tratamento de Saúde - RGPS (INSS)
+- 1099 Prorrogação de Licença para Tratamento de Saúde (Regime Próprio)
+
+
+
+
+               Lembrando que lançamentos com data retroativa deverão
+               ter suas incidências de desconto correspondentes (ex:
+               Auxílio alimentação).
+
+
+
+
+                                                                          6
+                             Orientações Complementares
+
+           Recepção de E-mails do SALIS:
+           Verifique se os e-mails automáticos enviados pelo SALIS estão
+           sendo recebidos pela GGDP ou equivalente. Caso contrário,
+           formalize a regularização com a DESSS com solicitação via
+           sistema SEI para unidade 20233.
+
+
+
+
+Modelo de E-mail Automático do SALIS
+
+
+
+
+                                                                     7
+                                  Orientações Complementares
+
+Passo a Passo para Emissão de Relatórios no SALIS
+1. Abra o SALIS.
+2. Posicione o mouse no menu "Relatórios".
+
+
+
+
+3. Clique em "Licença - Órgão".
+
+
+
+
+                                                          8
+                          Orientações Complementares
+
+4. Escolha o Mês
+5. Escolha o ano.
+
+
+
+
+6. Clique em "Expedir".
+
+

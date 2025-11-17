@@ -1,0 +1,261 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Indenização de férias de
+titular de cargo da
+estrutura básica ou
+complementar
+
+
+
+
+                          Julho/2024
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Legislação .................................................................................... 4
+
+Disposições Gerais ...................................................................... 5
+
+Conforme disposto na Lei nº 20.756/2020…........................... 5
+
+Conforme disposto no Decreto nº 9.802/2021 ........................ 6
+
+Procedimentos Gerais ................................................................ 8
+
+Lançamento no Rhnet ............................................................... 9
+
+Fluxograma do processo .......................................................... 9
+
+
+
+
+                             2
+
+
+
+
+                                                                                               2
+                        Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades administrativas e procedimentais relativas à
+indenização de excedente de férias de ocupante de cargo
+da estrutura básica ou complementar na Administração
+Pública direta, autárquica e fundacional do Poder Executivo.
+
+
+
+
+                       Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais   das     unidades   setoriais   de   gestão       e
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+                  3
+
+
+
+
+                                                           3
+                     Legislação
+
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+
+
+
+Decreto nº 9.802, de 26 de janeiro de 2021, que dispõe sobre
+a regulamentação dos procedimentos que envolvem a
+execução, a estruturação, a organização, a padronização e
+a gestão da folha de pagamento na administração direta,
+autárquica e fundacional do Poder Executivo do Estado de
+Goiás.
+
+
+
+
+                                                         4
+                                                    Disposições Gerais
+
+Conforme disposto na Lei nº 20.756/2020:
+
+
+Art. 128. O servidor fará jus a 30 (trinta) dias de férias, que podem ser
+acumuladas, até o máximo de 2 (dois) períodos, no caso de necessidade do
+serviço, sob pena de serem concedidas de ofício, ressalvadas as hipóteses
+previstas em legislação específica.
+(...)
+§ 5º Aos ocupantes de cargos de provimento em comissão integrantes das
+estruturas básica e complementar de órgão ou entidade que, por necessidade
+do serviço, não tiverem condições de usufruir as férias será facultado solicitar
+ao titular do órgão ou da entidade a indenização do excedente a 2 (dois)
+períodos aquisitivos, sem a incidência de juros e correção monetária.
+§ 6º A solicitação de indenização de que trata o § 5º deste artigo deverá ser
+realizada pelo servidor até 60 (sessenta) dias antes de completar o 3º (terceiro)
+período aquisitivo, na forma do regulamento.
+§ 7º A indenização de que trata o § 5º deste artigo será do período integral das
+férias, vedado seu fracionamento e com base na remuneração devida ao
+servidor no mês de ocorrência do efetivo pagamento.
+§ 8º Na situação prevista no § 5º deste artigo em que o pedido de indenização
+for negado pelo titular do órgão ou da entidade ou em que a solicitação não
+for realizada no prazo a que se refere o § 6º deste artigo, as férias deverão ser
+concedidas de ofício.
+§ 9º A não concessão das férias de ofício pelo titular do órgão ou da entidade,
+nos termos do caput deste artigo, implica a responsabilização desse agente,
+uma vez que o acúmulo indevido de férias pode gerar obrigações de
+pagamentos de indenizações pelo Poder Público.
+§ 10. No caso de titular de órgão ou entidade, a autorização para o pagamento
+da indenização compete ao Chefe do Poder Executivo.
+
+
+                                                                              5
+                                                   Disposições Gerais
+
+Conforme disposto no Decreto nº 9.802/2021:
+
+
+Art. 48-C. A indenização de férias de que trata o § 5º do art. 128 da Lei nº
+20.756/2020, será paga aos ocupantes de cargos de provimento em comissão
+integrantes das estruturas básica e complementar de órgão ou entidade que,
+por necessidade do serviço, não tiverem condições de usufruir as férias.
+(...)
+
+
+§ 4º As férias vencidas a partir de janeiro de 2024 e superiores a 2 (dois)
+períodos aquisitivos poderão ser indenizadas, se isso for solicitado ao titular
+do órgão ou da entidade de lotação do servidor até 60 (sessenta) dias antes de
+completar o 3º (terceiro) período aquisitivo, e o pagamento será realizado no
+mês seguinte ao de seu adimplemento, obedecido o calendário da folha de
+pagamento, nos termos do § 6º do art. 128 da Lei nº 20.756/2020.
+
+
+§ 5º No caso de servidor ocupante de cargo de provimento efetivo nomeado
+para ocupar cargo em comissão da estrutura básica ou complementar, a
+indenização das férias superiores a 2 (dois) períodos aquisitivos será paga para
+cada            um            dos            vínculos              isoladamente.
+
+
+§ 6º O processo SEI deverá ser encaminhado à Unidade Setorial do órgão ou da
+entidade de lotação do servidor para a validação dos períodos aquisitivos
+adquiridos, nos termos deste decreto, para o cálculo das férias indenizadas
+indenizáveis e para subsidiar a deliberação do titular do órgão ou da entidade.
+
+
+
+
+                                                                             6
+                                                        Disposições Gerais
+
+Conforme disposto no Decreto nº 9.802/2021:
+
+
+§ 7º No caso da negativa do titular do órgão ou da entidade ou de não
+realização da solicitação no prazo a que se referem os §§ 1º e 2º deste artigo, as
+férias deverão ser concedidas de ofício, sem prejuízo ao disposto no § 9º do art.
+128   da     Lei   nº   20.756/2020,       vedada   a    indenização     posterior.
+
+
+§ 8º Caso haja a autorização do titular do órgão ou da entidade, a Unidade
+Setorial deverá encaminhar o processo à Unidade Central com toda a
+documentação comprobatória para o lançamento no RHNet, obedecido o
+calendário              da             folha             de            pagamento.
+
+
+§ 9º A indenização de que trata o caput deste artigo será do período integral
+das férias, vedado o fracionamento, com o cálculo para cada vínculo do
+servidor e baseado na remuneração devida ao servidor no mês de ocorrência
+do efetivo pagamento, nos termos do § 7º do art. 128, da Lei nº 20.756/2020.
+
+
+§ 10. Caso o servidor tenha iniciado o gozo parcelado de um período aquisitivo,
+                                       7
+
+
+
+
+deverá usufruir todo o período aquisitivo restante antes de solicitar a
+indenização de que trata o caput deste artigo.
+
+
+
+
+                                                                                7
+                                                Procedimentos Gerais
+
+Requisitos:
+• Ser ocupante de cargo da estrutura básica ou complementar
+• Solicitar via formulário específico do SEI
+• Prazo: 60 dias antes de completar o 3º período aquisitivo.
+
+
+
+
+1. Servidor autua processo no SEI, preenche o formulário de Indenização do
+excedente de Férias - estrutura – Modelo Rede e assina.
+
+
+2. Os autos são encaminhados à Gerência de Gestão e Desenvolvimento de
+Pessoas – GGDP ou equivalente do órgão de lotação do servidor. Lembrando que
+a solicitação precisa ser feita como prazo mínimo de 60 dias antes de completar
+o 3º (terceiro) período aquisitivo.
+
+
+3. GGDP analisa se o servidor tem direito e faz o cálculo da indenização.
+
+
+4. Caso tenha algum impedimento, os autos são retornados para ciência do
+servidor.
+
+                                      8
+
+
+5. Caso não tenha impedimento, a GGDP encaminha os autos para o titular do
+órgão de lotação para autorização final.
+
+
+6. O despacho com a decisão do titular é encaminhado para a GGDP que:
+• Em caso de autorização, elabora o despacho para a Gerência Central da Folha
+  de Pagamento da SEAD efetuar o lançamento e fazer despacho para a GGDP
+  cientificar o servidor.
+• Em caso de negativa pelo titular, elabora o despacho para ciência do servidor.
+
+
+
+
+                                                                             8
+                                             Procedimentos Gerais
+
+Observações:
+• O lançamento será feito pela Gerência Central da Folha de Pagamento da
+  SEAD.
+
+
+• O pagamento será efetuado no mês posterior a aquisição do direito ao 3º
+período aquisitivo de férias. Exemplo:
+Servidor completará o terceiro período aquisitivo dia 29/08/2024. Fez a
+solicitação pela indenização de férias no dia 02/05/2024. Mesmo o processo
+tendo sido autorizado, o pagamento só será efetuado na folha de setembro,
+considerando que completou o 3º período aquisitivo no mês anterior.
+
+
+
+
+Lançamento no RHnet
+Realizado pela Gerência Central da Folha de Pagamento da SEAD.
+
+

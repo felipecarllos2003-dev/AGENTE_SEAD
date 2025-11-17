@@ -1,0 +1,469 @@
+Secretaria de Estado da Administração
+Manual de
+Procedimentos
+Averbação e desaverbação
+do tempo de contribuição
+Agosto/2024
+
+The following table:
+"Objetivo
+","3
+"
+"Aplicação
+","3
+"
+"Legislação
+","4
+"
+"Disposições Gerais
+","5
+"
+"Conforme disposto na Lei $n^{\circ}20.756/2020.$
+","5
+"
+"Conforme disposto na Lei nº 161/2020..
+","7
+"
+"Procedimentos Gerais
+ Documentação
+ Procedimento
+ Procedimento
+ Procedimento
+ Procedimento da
+ Lançamento no Rhnet
+
+
+necessária
+
+
+para o Servidor.
+
+
+para o órgão de lotação...
+
+
+para o órgão de origem..
+
+
+Goiasprev.
+","13
+
+
+.13
+
+
+.13
+
+
+.14
+
+
+..15
+
+
+.15
+
+
+16
+"
+
+
+
+
+
+"Fluxograma do processo
+",".16
+"
+
+Sumário
+2
+
+Objetivo
+O presente manual visa padronizar e direcionar as
+ atividades administrativas e procedimentais relativas à
+ concessão de averbação do tempo de contribuição dos
+ servidores da Administração Pública direta, autárquica e
+ fundacional do Poder Executivo.
+Aplicação
+Este manual tem abrangência no âmbito das competências
+ regimentais das unidades setoriais de gestão e
+ desenvolvimento de pessoas da Administração Pública
+ Estadual direta, autárquica e fundacional.
+3
+
+Legislação
+Lei $n^{\circ}$ 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+ regime jurídico dos servidores públicos civis do Estado de
+ Goiás, das autarquias e fundações públicas estaduais, e dá
+ outras providências.
+Lei $n^{\circ}$ 161, de 30 de dezembro de 2020, que dispõe sobre o
+ Regime Próprio de Previdência Social do Estado de Goiás
+ RPPS/GO e dá outras providências.
+4
+
+Conforme disposto na Lei nº 20.756/2020:
+Disposições Gerais
+Art. 178. Será feita em dias a apuração do tempo de serviço.
+Parágrafo único. O número de dias será convertido em anos, considerado o
+ano como de 365 (trezentos e sessenta e cinco) dias.
+Art. 179. A apuração é a liquidação do tempo de serviço público à vista dos
+ assentamentos do servidor, arquivados no órgão de pessoal responsável pela
+ guarda de documentos.
+Parágrafo único. Quando os assentamentos não oferecerem dados suficientes
+ que permitam uma segura apuração do tempo de serviço prestado, o órgão
+ responsável pelo levantamento deverá recorrer, subsidiariamente, ao registro
+ da frequência ou à folha de pagamento.
+Art. 180. Será contado para efeito de disponibilidade o tempo de serviço
+ prestado:
+I - sob qualquer forma de admissão, desde que remunerado pelos cofres
+ estaduais;
+II - a instituição de caráter privado que tiver sido encampada ou transformada
+em estabelecimento de serviço público;
+III - à União, ao Estado, ao Território, ao Município ou ao Distrito Federal;
+IV- às autarquias, fundações, empresas públicas e sociedade de economia
+mista sob o controle acionário do Estado;
+V - às Forças Armadas;
+VI - em atividades vinculadas ao regime geral de previdência.
+$81^{\circ}$ O tempo de serviço será contado somente uma vez para cada efeito.
+§ $2^{\circ}$ Não será contado o tempo de serviço que já tenha sido base para
+ concessão de aposentadoria por regime previdenciário.
+5
+
+Disposições Gerais
+§ 3º É vedado proceder:
+I - ao arredondamento de dias faltantes para complementar período;
+II - a qualquer forma de contagem de tempo de serviço fictício;
+III - à contagem cumulativa de tempo de serviço prestado concomitantemente:
+a) em diferentes cargos do serviço público;
+b) em cargo do serviço público e em emprego na administração indireta ou na
+ iniciativa privada;
+IV - à contagem do tempo de serviço já computado:
+a) em órgão ou entidade em que o servidor acumule cargo público;
+b) para concessão de aposentadoria em qualquer regime de previdência social
+pelo qual o servidor receba proventos.
+Art. 181. Não será computado, para qualquer efeito, o tempo:
+- da licença por motivo de doença em pessoa da família do servidor quando
+ não remunerada;
+II - da licença para tratar de interesses particulares;
+III - da licença por motivo de afastamento do cônjuge;
+IV - de qualquer afastamento não remunerado, ressalvado o disposto no inciso
+ XXI do art. 30 desta Lei;
+V - de faltas injustificadas ao serviço;
+VI - em que o servidor estiver cumprindo sanção disciplinar de suspensão;
+VII - decorrido entre:
+a) a exoneração e o exercício em outro cargo de provimento efetivo;
+b) a concessão de aposentadoria voluntária e a reversão;
+c) a data de publicação do ato de reversão, reintegração, recondução ou
+ aproveitamento e o retorno ao exercício do cargo.
+Art. 182. O computo de tempo de serviço público, à medida que flui, será feito
+ somente no momento em que dele necessitar o servidor para comprovação de
+ direitos assegurados em Lei.
+6
+
+Disposições Gerais
+Parágrafo único. A contagem de tempo de serviço público reger-se-á pela Lei
+ em vigor à ocasião em que o serviço haja sido prestado.
+Art. 183. Faz-se na forma da legislação previdenciária a contagem do tempo:
+ I - de contribuição;
+II - no serviço público;
+III - de serviço no cargo efetivo;
+IV - de serviço na carreira.
+Conforme disposto na Lei nº 161, de 30 de dezembro de 2020:
+Art. 138. A averbação de tempo de contribuição dos segurados do RPPS/GO é
+ de competência da GOIASPREV, respeitado o domínio administrativamente
+ autônomo do Tribunal de Justiça, da Assembleia Legislativa, do Tribunal de
+ Contas do Estado, do Tribunal de Contas do Município, da Defensoria Pública e
+ do Ministério Público.
+Art. 139. O segurado terá direito de averbar, para fins de concessão dos
+ benefícios do regime de que trata esta Lei Complementar, o tempo de
+ contribuição na administração pública direta e indireta da União, dos Estados,
+ do Distrito Federal e dos Municípios, e na iniciativa privada, mediante a
+ apresentação de Certidão de Tempo de Contribuição CTC em original,
+ quando física, ou por meio eletrônico, emitida nos termos da legislação
+ previdenciária aplicável.
+7
+
+Disposições Gerais
+§ 1º Continuam válidas, para efeito de averbação no RPPS/GO, as certidões de
+ tempo de serviço emitidas em data anterior à publicação da Emenda
+ Constitucional federal nº 20, de 1998:
+- pelos órgãos da administração direta da União, dos Estados, do Distrito
+ Federal e dos Municípios, suas autarquias, fundações públicas, quando
+ vinculados a regime estatutário, de responsabilidade dos referidos entes;
+e
+ II - pelo Instituto Nacional do Seguro Social - INSS ou órgão sucedido por este,
+ relativamente ao tempo de efetivo serviço prestado com filiação ao RGPS.
+§ 2º Serão conferidos à averbação de tempo de contribuição os efeitos:
+I - de aposentadoria, mediante apresentação de CTC de qualquer regime de
+ previdência ou de Histórico Funcional para o período laborado no Estado de
+ Goiás vinculado ao RPPS/GO;
+de disponibilidade e gratificação adicional, na forma prevista nos
+ respectivos estatutos, por meio da apresentação de CTS ou Histórico
+ Funcional para o período laborado no Estado de Goiás vinculado ao RPPS/GO,
+ que comprove o tempo de efetivo serviço público;
+e
+de tempo de função exclusiva de magistério mediante exibição de
+ declaração do estabelecimento de ensino de que houve o seu exercício,
+ acompanhada do ato legal de autorização para o funcionamento da unidade
+ de ensino respectiva.
+Art. 140. A comprovação do tempo de efetivo serviço público prestado a outro
+ ente da Federação, para efeito de disponibilidade e gratificação adicional, será
+ feita por meio da Certidão de Tempo de Serviço - CTS, emitida pelo órgão
+ público onde o serviço foi prestado, que, no mínimo, conterá:
+I - as faltas injustificadas;
+II - afastamento ou licença sem direito à remuneração, com especificação de
+ data a data, caso haja;
+III - menção expressa do regime jurídico de trabalho;
+IV - discriminação da frequência durante o período abrangido pela CTS;
+8
+
+Disposições Gerais
+V - soma total do tempo líquido de prestação efetiva do serviço público;
+VI
+ período de tempo de serviço prestado ao órgão, de data a data,
+ compreendido na certidão; e
+VII - nome do servidor, RG, CPF, cargo, função, datas de nomeação, posse,
+ exercício e de exoneração ou demissão.
+Parágrafo único. É desnecessária a apresentação da CTS na hipótese que a CTC
+ contenha todas as informações disciplinadas no caput deste artigo.
+Art. 141. O tempo de efetivo serviço público prestado ao Estado de Goiás será
+ averbado mediante apresentação de Histórico Funcional a ser emitido pelo
+ órgão de origem do segurado, relativamente ao vínculo anterior, sendo
+ conferidos os efeitos de aposentadoria, disponibilidade e gratificação
+ adicional, este último na forma prevista nos respectivos estatutos.
+Art. 142. A averbação de período posterior à vigência da Lei estadual $n^{\circ}$ 12.872,
+ de 1996, será efetivada somente mediante a verificação e a comprovação do
+ recolhimento da contribuição previdenciária vertida ao RPPS/GO,
+ resguardando o direito do segurado de efetuar o devido recolhimento, com
+ acréscimo de correção monetária e juros legais.
+Art. 143. O período em que o segurado ativo esteve licenciado ou afastado, sem
+ remuneração poderá ser averbado no RPPS/GO:
+-mediante apresentação de CTC:
+a) com efeito exclusivo de aposentadoria, o tempo de contribuição vertida ao
+ RGPS pelo exercício de atividade de filiação obrigatória a esse regime;
+e
+b) com efeito de aposentadoria, disponibilidade e gratificação adicional, na
+ forma prevista nos respectivos estatutos, o tempo de contribuição vertida a
+ RPPS na hipótese de investidura em cargo acumulável, nos termos da
+ Constituição Federal;
+e;
+9
+
+Disposições Gerais
+II - por declaração emitida pelo setor competente da GOIASPREV, com efeito
+ exclusivo de aposentadoria, quando houver o recolhimento das contribuições
+ previdenciárias relativas ao período de afastamento, na forma do art.
+23 desta
+ Lei Complementar.
+Art. 144. Não poderão ser objeto de averbação no RPPS/GO, o tempo:
+1 - de serviço prestado na condição de voluntário, menor aprendiz e estagiário,
+ sem a apresentação da CTC correspondente ao período;
+II - de serviço para efeito exclusivo de gratificação adicional;
+III - de contribuição na condição de participante da Lei estadual $n^{\circ}$ 15.150, de
+ 2005, a partir da publicação da Emenda Constitucional federal nº 20, de 1998;
+IV - de serviço prestado a órgão estadual objeto de sentença declaratória sem
+ a correspondente contribuição a partir da vigência da Lei estadual $n^{\circ}$ 12.872,
+ de 1996, salvo na hipótese de o segurado promover o recolhimento das
+ contribuições do respectivo período;
+V - fictício, após a publicação da Emenda Constitucional federal nº 20, de 1998;
+VI de contribuição concomitante no mesmo ou em outro regime de
+ previdência social; e
+VII - de vínculo público cuja nomeação tenha sido feita com data retroativa, do
+ período entre essa data e a da posse ou do exercício, se não houver a devida
+ comprovação de que ocorreu a efetiva frequência e o recebimento de
+ remuneração.
+Art. 145. O segurado que tenha averbado em seu atual vínculo tempo de
+ contribuição vertida a outro regime de previdência social somente fará jus ao
+ desentranhamento da respectiva CTC mediante procedimento de
+ desaverbação, desde que tal tempo não tenha sido usado para efeito de
+ concessão de abono de permanência, gratificação adicional ou inatividade.
+10
+
+
+Disposições Gerais
+ § 1º Excepciona-se da regra contida no caput, a hipótese em que o segurado
+ necessite efetuar alteração da CTC referente a aspectos materiais e/ou formais
+ de sua validade, ocasião em que a GOIASPREV, procederá à desaverbação
+ temporária dos respectivos períodos, concedendo-lhe o prazo de 180 (cento e
+ oitenta) dias para regularização.
+§ 2º Mediante solicitação do segurado, a GOIASPREV poderá prorrogar
+ fundamentadamente o prazo previsto no § 1º deste artigo, por, no máximo,
+ igual período.
+§ 3º Findos os prazos de que tratam os §§ 1º e 2º deste artigo, não apresentando
+ o segurado a CTC, original ou retificada, a desaverbação temporária deverá ser
+ convertida em definitiva, com a obrigatória instauração de procedimento de
+ auditoria, com vistas ao cancelamento do ato de inativação e dos demais
+ benefícios mencionados no caput, quando for o caso, e à devolução ao erário
+ de todas as vantagens pecuniárias percebidas em razão da averbação
+ constante da referida CTC, além de outras penalidades administrativas
+ legalmente cabíveis.
+§ 4º Caso a CTC seja devolvida, sem que se tenha procedido à pretendida
+ retificação, com persistência de vício insanável que cause sua invalidade,
+ advindo-se, assim, a inviabilização de futura compensação previdenciária,
+ deverá ser adotado o procedimento previsto no § 3º deste artigo, sendo
+ tornada sem efeito a averbação anteriormente concedida, não se aplicando o
+ contido no art.
+124 desta Lei Complementar.
+ Art. 146. O desentranhamento da CTC ou a emissão de declaração de sua não
+ utilização sem o devido procedimento para a desaverbação, nos termos do art.
+145 desta Lei Complementar, ou a sua inutilização por qualquer meio,
+ constitui infração disciplinar, sem prejuízo da responsabilidade civil e penal
+ do servidor que der causa ao ato e do interessado, ressalvado o disposto no
+ parágrafo único do art.
+147 desta Lei Complementar.
+ 11
+ 11
+
+
+Disposições Gerais
+ Art. 147. O ex-segurado que, após ter averbado em seu dossiê tempo de
+ contribuição vertida a outro regime de previdência social, tenha seu vínculo
+ rompido com órgão do Estado fará jus à emissão da CTC pela GOIASPREV
+ referente a este vínculo, assim como o desentranhamento da certidão que
+ consubstanciou a referida averbação.
+Parágrafo único. O desentranhamento de que trata o caput deste artigo será
+ procedido de forma simplificada com apenas a substituição da certidão
+ original que consubstanciou a referida averbação por cópia da mesma com a
+ devida autenticação do servidor público responsável e com certificação
+ aposta no seu verso pelo ex-segurado de que está extraindo a original
+ respectiva.
+12
+ 12
+
+
+Procedimentos Gerais
+ Documentação necessária
+ • Requerimento - Averbação de tempo de contribuição;
+ • Documentos pessoais;
+• Cópia do comprovante de endereço atualizado;
+ • Cópia do último contracheque;
+• Cópia dos atos de nomeação, apostila de posse, averbações, afastamentos
+ remunerados ou não, licenças, etc;
+• Cópia da Carteira de Trabalho;
+ • Certidão de Tempo de Contribuição – CTC
+ • Histórico funcional do vínculo atual do servidor, emitido pelo orgão de
+ origem, conforme modelo disponível no sítio da GOIASPREV, contendo todos
+ os dados funcionais, nomeação, posse e exercício, respectivamente,
+ informando inclusive se houve qualquer averbação em seu dossiê, para que
+ seja verificada possível concorrência com o período a ser averbado,
+ afastamentos remunerados ou não, deduções, faltas, licenças, etc, conforme
+ § 6º do Art.115 da LC nº 77/2010.
+ Procedimento para o servidor
+ 1. Servidor autua processo no SEI e preenche o Requerimento - Averbação de
+ tempo de serviço (modelo da GOIÁSPREV), inclui os documentos pessoais, e
+ encaminha para a GGDP.
+2. Acompanha as atualizações do processo para dar ciência na
+ concessão/indeferimento ou atender a possíveis solicitações da GGDP.
+3. Em caso de discordância da decisão dos autos, elabora um novo despacho
+ para reanálise, manifestando o motivo, e acompanha o andamento do
+ processo para dar ciência quando solicitado.
+13
+ 13
+
+
+Procedimentos Gerais
+ Procedimento para a GGDP do órgão de lotação
+ 1. GGDP do órgão de lotação recebe o processo encaminhado pelo servidor,
+ confere a documentação e assinaturas.
+• Caso esteja faltando algum dos pré requisitos, o processo retorna para
+ o servidor com um despacho informando a necessidade da
+ correção/inclusão.
+2. Estando em conformidade, a GGDP do órgão de lotação encaminha o
+ processo para a GGDP do órgão de origem, que elaborará o Histórico
+ Funcional a ser encaminhado à GOIASPREV.
+3. Após análise da GOIASPREV, será emitido despacho de averbação,
+ retornando o processo para o órgão de origem, que o enviará para o órgão
+ de lotação.
+4. A GGDP do orgão de lotação elabora o despacho para ciência do servidor, e
+ notifica o servidor.
+• Na ausência de manifestação, ocorre a ciência tácita.
+ • Em caso de discordância, o servidor manifesta nos autos e o processo
+ retorna para o órgão de origem para a reanálise.
+5. Em caso se deferimento e após a ciência do servidor, a folha de pagamento
+ da GGDP do órgão de lotação inclui as anotações no RHnet.
+6. Elaborar o despacho comunicando que foram feitos os lançamentos e
+ devolve o processo para o órgão de origem.
+14
+ 14
+
+
+Procedimentos Gerais
+ Procedimento para a GGDP do órgão de origem
+ 1. GGDP do órgão de origem recebe o processo enviado pela GGDP de
+ lotação e confere.
+2. Elabora o histórico funcional conforme modelo da GOIASPREV e anexa ao
+ processo.
+3. Encaminha o processo para a GOIASPREV e aguarda o retorno.
+4. Ao retornar da GOIASPREV com o despacho de averbação, a GGDP de
+ origem elabora o despacho encaminhando o processo para o órgão de
+ lotação fazer os lançamentos no RHnet.
+5. Após os lançamentos pela lotação e devolução dos autos ao órgão de
+ origem, este:
+ • Em caso de efeito apenas para aposentadoria, arquiva no dossiê e
+ conclui o processo.
+• Para efeito de adicional de tempo de serviço, elabora o despacho de
+ regularização dos Adicionais de Tempo de Serviço – ATS.
+Após,
+ encaminha para a Superintendência Central de Gestão de Pessoal,
+ para conferência e lançamento do percentual no RHnet.
+Com o
+ retorno, arquiva no dossiê e conclui o processo.
+ Procedimento da GOIASPREV
+ 1. GOIASPREV recebe o processo e analisa a documentação.
+• Se em conformidade: emite o despacho de averbação e retorna o
+ processo para a GGDP de origem.
+• Caso esteja faltando alguma informação/documentação, o processo
+ retorna para a GGDP do órgão de lotação solicitando
+ inclusão/correção.
+ 15
+ 15
+
+
+Procedimentos Gerais
+ DESAVERBAÇÃO:
+ Para a desaverbação o servidor usará o formulário Requerimento
+ para desaverbação de tempo de contribuição, disponível no SEI.
+A GGDP do órgão de origem recebe o processo, confere a
+ documentação, elabora novo histórico funcional com as informações
+ solicitadas pelo servidor e encaminha para a GOIASPREV .
+A GOIASPREV faz a reanálise e devolve o processo para o órgão de
+ lotação.
+O órgão de lotação fará a invalidação da averbação no Rhnet e, em
+ caso de adicional de tempo de serviço encaminhará o processo para a
+ Superintendência Central de Gestão de Pessoal, para conferência e
+ lançamento do percentual nos RHNet.
+Com o retorno, arquiva no dossiê e
+ conclui o processo.
+Se for desaverbação provisória, no futuro, o servidor pode solicitar
+ nova averbação e segue o trâmite de solicitar averbação de tempo de
+ contribuição.
+Se for desaverbação definitiva, após regularização no Rhnet, conclui
+ os autos e arquiva em dossiê.
+ 16
+ 16
+
+
+Procedimentos Gerais
+ Lançamento no RHnet:
+ 1. Identificar no SEI o documento que concedeu a averbação, e levantar o
+ período averbado e os efeitos da averbação;
+2. O próximo passo é efetuar o lançamento no Rhnet:
+  Cadastro
+  Ocorrências Servidor
+  Cadastro funcional
+  Tipo de ocorrência: de acordo com o termo da averbação da
+ GOIASPREV
+  Digite o CPF do servidor;
+ Selecione o vínculo do servidor (em caso de servidor efetivo com
+ cargo em comissão, registro deve ser feitono cargo efetivo);
+ Informar a data de início e fim da Averbação;
+ Em quantidade de dias o sistema calculará de forma automática a
+ quantidade de dias averbados;
+ Diploma legal registra o documento/processo SEI que concedeu a
+ averbação;
+ No histórico registra as informações complementares ( nº do
+ processo SEI, nº do Documento que concedeu, etc.)
+  Para finalizar, faça a consulta e conferência do lançamento.
+Fluxograma do processo:
+ Averbação
+ Desaverbação

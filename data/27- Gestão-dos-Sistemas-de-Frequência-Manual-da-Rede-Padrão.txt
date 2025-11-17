@@ -1,0 +1,952 @@
+Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Gestão dos Sistemas de
+Frequência
+
+
+
+
+                         Maio/2025
+                                        Sumário
+
+
+Objetivo .......................................................................................... 3
+
+Aplicação ....................................................................................... 3
+
+Legislação ..................................................................................... 4
+
+Conforme disposto na Lei nº 20.756 ......................................... 5
+
+1. Inclusão de Cadastro ............................................................... 8
+
+    1.1. No Sistema de Frequência – SFR ..................................... 8
+
+    1.2. No Sistema de Frequência – FRE ................................... 16
+
+    1.3. No Portal de Acesso / Segurança ................................. 20
+
+2. Encerramento de Cadastro ................................................. 22
+
+   2.1. No Sistema de Frequência – SFR ................................... 22
+
+   2.2. No Sistema de Frequência – FRE ................................... 26
+
+3. Escalas de Horário .................................................................. 27
+
+   3.1. Descrição da funcionalidade ........................................ 27
+
+   3.2. Incluir uma nova escala ................................................ 29
+
+   3.3. Demonstrativo de frequência atualizado .................. 33
+
+
+
+
+                                                                                               2
+                        Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades     administrativas    e    procedimentais   para
+inclusão e encerramento de cadastro nos sistemas de
+frequência dos servidores da Administração Pública
+direta, autárquica e fundacional do Poder Executivo.
+
+
+
+
+                        Aplicação
+
+Este   manual     tem    abrangência      no   âmbito    das
+competências     regimentais     das   unidades   centrais       e
+setoriais de gestão e desenvolvimento de pessoas da
+Administração Pública Estadual direta, autárquica e
+fundacional.
+
+
+
+
+                                                             3
+                     Legislação
+
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+
+Decreto nº 8.465, de 05 de outubro de 2015, que
+regulamenta o controle de frequência do servidor da
+administração direta, autárquica e fundacional do Poder
+Executivo.
+
+
+Instrução Normativa n° 009/2015-GAB, que dispõe sobre
+normas complementares do sistema de registro e controle
+eletrônico da frequência dos servidores públicos da
+Administração direta, autárquica e fundacional do Poder
+Executivo e dá outras providências.
+
+
+
+
+                                                        4
+Conforme disposto na Lei nº 20.756/2020
+
+
+Art. 83. Frequência é o comparecimento obrigatório do servidor ao serviço
+dentro do horário Fixado em Lei ou regulamento do órgão de sua lotação,
+para cabal desempenho dos deveres inerentes ao cargo ou à função,
+observadas a natureza e as condições do trabalho.
+
+
+Parágrafo único. Apura-se a frequência:
+I - pelo ponto;
+II - pela forma determinada em regimentos, quanto aos servidores que, em
+virtude das atribuições que desempenham, não estão sujeitos a ponto.
+
+
+Art. 84. Ponto é o registro pelo qual se verificarão, diariamente, a entrada e a
+saída do servidor em serviço.
+
+
+§ 1º Nos registros de ponto deverão ser lançados todos os elementos
+necessários à apuração da frequência.
+
+
+§ 2º A frequência do servidor da administração direta, autárquica e
+fundacional será apurada por meio do sistema de ponto eletrônico em que
+serão registradas, diariamente e a cada turno, a entrada e a saída do servidor
+em seu local de trabalho, salvo as hipóteses previstas em regulamento.
+
+
+§ 3º Salvo nos casos expressamente previstos em Lei e regulamento, é
+vedado dispensar o servidor do registro do ponto e abonar faltas ao serviço.
+
+
+§ 4º As autoridades e os servidores que, de qualquer forma, contribuírem
+para o descumprimento do disposto no parágrafo anterior, serão obrigados a
+repor aos cofres públicos as importâncias indevidamente pagas aos
+servidores faltosos, sem prejuízo da responsabilização disciplinar cabível.
+
+
+
+
+                                                                               5
+Conforme disposto na Lei nº 20.756/2020
+
+
+§ 5º Em cada mês civil poderão ser dispensados de inspeção pela Junta
+Médica Oficial do Estado até 3 (três) dias de licença do servidor, previstos nos
+incisos I e II do art. 133 e nos incisos I e II do art. 134 desta Lei, desde que sejam
+devidamente justificados por atestado médico e não excedam a 3 (três)
+jornadas diárias integrais no mês e a 18 (dezoito) jornadas diárias integrais de
+licença em cada exercício.
+
+
+§ 6º Ultrapassado o limite de que trata o § 5º deste artigo, os atestados
+médicos particulares deverão ser submetidos à Junta Médica Oficial do
+Estado, na forma do art. 136 desta Lei.
+
+
+§ 7º Poderão ser também abonadas, desde que justificadas e devidamente
+comprovadas, as ausências do servidor na forma do regulamento.
+
+
+§ 8º A dispensa da marcação do ponto, quando assim o exigir o serviço, não
+desobriga o servidor por ela atingido do cumprimento de suas obrigações
+funcionais.
+
+
+Art. 85. Excetuados os ocupantes de cargos em comissão de direção, chefia e
+assessoramento superior da estrutura básica todos os servidores estão
+sujeitos à prova de pontualidade e frequência mediante o sistema de
+marcação de ponto.
+
+
+Parágrafo único. O disposto neste artigo não se aplica ao servidor que,
+necessariamente, desempenhe suas atividades em serviços externos, bem
+assim ao que, pela natureza de suas atribuições, quando comprovadamente
+no exercício delas, tenha de deslocar-se da repartição em que estiver lotado,
+os quais terão frequência apurada conforme regulamento.
+
+
+
+                                                                                     6
+Conforme disposto na Lei nº 20.756/2020
+
+
+Art. 86. São consideradas faltas injustificadas, sem prejuízo de outras, as
+ausências decorrentes de:
+
+I - não retorno ao exercício, no prazo Fixado nesta Lei, em caso de reversão,
+reintegração, recondução ou aproveitamento;
+
+
+II - não apresentação imediata para exercício no órgão, autarquia ou
+fundação, em caso de remoção ou término de afastamento ou licença, salvo
+prorrogação;
+
+
+III - interstício entre:
+a) o afastamento do órgão, da autarquia ou fundação de origem e o exercício
+   no órgão ou na entidade a que o servidor foi cedido ou de que colocado à
+   disposição;
+b) o término da cessão ou da disposição de que trata a alínea “a” e o reinício
+do exercício no órgão, na autarquia ou fundação de origem.
+
+IV – não comparecimento ao local de trabalho sem a apresentação de
+documento comprobatório que justifique sua ausência, conforme as normas
+aplicáveis à espécie.
+
+
+Art. 87. Aos servidores que estiverem cursando estabelecimentos de ensino
+oficiais ou reconhecidos poderá ser concedido horário especial, quando
+comprovada a incompatibilidade entre o horário escolar e o da repartição.
+
+
+§ 1º É exigida do servidor a compensação de horário na unidade
+administrativa, de modo a cumprir integralmente a carga horária semanal de
+trabalho.
+
+
+§ 2º O servidor estudante deve comprovar, mensalmente, a sua frequência
+escolar.                                                                     7
+                                                  Procedimentos Gerais
+
+1. INCLUSÃO DE CADASTRO
+
+1.1. No Sistema de Frequência – SFR
+
+
+Para devida regularização funcional, todo servidor ativo na folha de
+pagamento deve estar cadastrado e ativo também no SFR. O principal
+cadastro é feito na opção “Dados do Servidor”, do menu “Cadastro”. A seguir,
+passaremos a detalhar cada uma das funcionalidades dessa tela:
+
+
+
+
+              Tendo em vista as limitações do sistema SFR, orientamos que
+              o cadastro seja feito “por partes”, preenchendo aos poucos e
+              salvando. Assim, é recomendado que o procedimento seja
+              salvo (botão “Salvar” no final da página) a cada item
+              finalizado (1.1.1 a 1.1.5)                                     8
+1.1.1. Dados básicos e específicos
+
+
+• Dados básicos
+
+
+
+
+ Ao digitar o CPF e clicar no botão verde ao lado, o sistema irá preencher alguns
+ campos automaticamente com os dados da tabela corporativa do Estado.
+ Após, devem ser manualmente preenchidos os campos “Situação funcional”,
+ “Regime” e “Tipo”, de acordo com o tipo do vínculo do servidor. Quanto ao
+ campo “Situação funcional”, as opções são “Ativo” ou “Inativo”. Quanto aos
+ demais campos, as opções são as seguintes:
+
+
+                            Regime             Tipo do vínculo
+                                            Civil efetivo
+              Estatutário                   Civil comissionado
+                                            Militar
+              Especial                      Temporário
+                                            Terceiro
+              Celetista
+                                            Empregado público
+              Estagiário                    Estagiário
+
+
+
+               Em regra, todos os servidores que estão ativos na folha de
+               pagamento do Estado devem estar com a situação funcional
+               “Ativo” também no SFR.
+
+                                                                             9
+ Dados específicos
+
+
+
+
+O campo “Matrícula p/ frequência” deve ser preenchido com o CPF do
+servidor, sem pontos e traço. As cargas horárias (diária e semanal) devem ser
+preenchidas de acordo com a jornada de trabalho do servidor (carga horária
+diária no formato 00:00 como, por exemplo, 04:00, 06:00 e 08:00; e carga
+horária semanal no formato de número inteiro como, por exemplo, 20, 30 e
+40 horas). Os demais campos a serem preenchidos são:
+
+        Função / Cargo ocupado              Nível de acesso              Perfil p/ Ocorrência
+
+
+ Servidor                                Somente próprios dados           Servidor
+
+                                         Somente Unidade
+                                                                           Validador
+ Chefe imediato                           Administrativa do Órgão
+                                                                           Homologador
+                                          de lotação
+                                         Todas as Unidades
+ Gestor setorial
+                                          Administrativas do Órgão         Gestor
+ (concessão exclusiva pela Central)
+                                          de lotação
+
+Ressaltamos que:
+
+a) Para o servidor consultar os seus próprios registros, basta “Somente
+próprios dados” e “Servidor”;
+b) Para os ocupantes de cargos em comissão das estruturas básica e
+complementar, orienta-se a atribuição de “Somente Unidade Administrativa
+do Órgão de lotação” e “Homologador”, por meio dos quais o chefe imediato
+conseguirá lançar e homologar ocorrências para todos os servidores lotados
+na unidade administrativa.
+                                                                                                10
+Obs.: A diferenciação para os perfis “Validador” e “Homologador” se dá nas
+permissões diferentes na tela de “Tipos de Ocorrência por Órgão”, sendo uma
+etapa adicional de homologação de ocorrências, a critério da gestão da Pasta.
+Por exemplo:
+
+
+
+
+Neste caso, somente servidor com o perfil de “Homologador” e “Gestor de
+Ponto” podem lançar e homologar a ocorrência. O servidor com o perfil de
+“Validador” não teria permissão.
+
+
+                  Para concessão de perfil de “Gestor Setorial”, tanto no SFR quanto
+                  no FRE, permanece a necessidade de solicitação via processo SEI
+                  à unidade 18220, com a indicação expressa do titular da Pasta,
+                  conforme orientação da Instrução Normativa nº 009/2015-
+                  GAB/SEGPLAN.
+1.1.2. Lotação
+
+
+
+
+ Nesta etapa, será necessário selecionar a “Unidade Administrativa” de
+ lotação do servidor na relação de unidades administrativas do órgão (como
+ atalho, o campo destacado em vermelho na imagem acima pode ser
+ preenchido com o código SEI da unidade que o servidor será lotado e clicar
+ em “Tab” no teclado; dessa forma, o campo de “Unidade Administrativa” será
+ preenchido automaticamente). Em seguida, preencher a “Data de Início”
+ (deixando o campo “Data de Término” em branco, indicando ser a lotação
+ atual do servidor) e clicar em “Adicionar”.                                     11
+1.1.3. Cargo
+
+
+
+
+Nesta etapa, é necessário vincular o cargo do servidor do RHNet neste campo
+“Cargo”. Para tal, com exceção das pessoas sem vínculo (como, por exemplo,
+estagiários), ao clicar em “Cargo” o SFR irá trazer o vínculo ativo do servidor no
+RHNet, conforme demonstrado abaixo:
+
+
+
+
+  Selecionando o cargo, basta preencher a “Data de Início” (deixando o
+  campo “Data de Término” em branco, indicando ser o vínculo ativo do
+  servidor) e clicar em “Adicionar”.
+
+
+                  Para as integrações entre os sistemas SFR, FRE e RHNet, é
+                  OBRIGATÓRIO          que   o   cargo   esteja   vinculado   nesta
+                  funcionalidade. Exemplos de integrações relacionadas a este
+                  campo:
+                  • Processamento de faltas e atrasos do SFR para o RHNet;
+                  • Migração de ocorrências do RHNet (como licenças, por
+                     exemplo) para o demonstrativo de frequência do SFR;
+                  • Processamento de saldos do SFR para o FRE, para
+                     possibilitar compensações e banco de horas na forma do
+                     Decreto nº 8.465/2015.
+                                                                              12
+Como os estagiários são pessoas sem vínculo e não há integração com o
+RHNet, o campo “Cargo” ficará sem preenchimento.
+
+
+                    Para estagiários, é necessário o lançamento manual no
+                    RHNet de faltas e atrasos apurados no SFR.
+
+
+
+1.1.4. Locais de registro
+
+
+
+
+ Após a lotação do servidor (item 1.1.2), o sistema trará a parte de “Locais de
+ registro de ponto” preenchido com todos os registradores cadastrados e
+ ativos no órgão. Assim, basta selecionar os locais que o servidor estará
+ autorizado a registrar o seu ponto.
+
+
+                  Lembrando que, conforme o Ofício Circular nº 167/2021 -
+                  SEAD, o registro de frequência do servidor, em regra, deve
+                  ser realizado por meio eletrônico em máquinas fixas,
+                  disponibilizadas conforme a capacidade de cada Pasta,
+                  salvo em casos excepcionais de impossibilidade de
+                  instalação do registrador fixo conforme justificativa
+                  individual de cada situação, oportunidade esta em que
+                  poderá ser realizado o registro via WEB.
+                                                                               13
+1.1.5. Tabela de horários
+
+
+
+
+Por fim, para vinculação da tabela de horários no cadastro do servidor,
+clicar primeiramente em “Procurar”. Em seguida, o sistema irá abrir uma
+janela para consulta das tabelas de horários cadastradas no órgão, onde
+será possível consultar e selecionar a tabela correspondente, conforme
+demonstrado abaixo:
+
+
+
+
+                 Conforme aviso do próprio sistema, ao vincular a tabela de
+                 horários, reiteramos que este procedimento NÃO poderá
+                 ser desfeito no SFR.
+
+
+
+
+                                                                         14
+1.1.6. Dispensa de ponto
+
+
+Para os servidores dispensados do controle eletrônico de ponto, na forma do
+art. 85 da Lei estadual nº 20.756/2020 e do art. 10 do Decreto nº 8.465/2015, é
+necessário o lançamento da dispensa por meio da opção “Dispensa de
+ponto”, no menu “Cadastro”. Na tela que irá abrir, será necessário consultar se
+existem dispensas lançadas no CPF do servidor para, em seguida, incluir uma
+nova, conforme demonstrado abaixo:
+
+
+
+
+Ao clicar em “Incluir”, a tela abaixo será mostrada para o devido
+preenchimento dos campos:
+
+
+
+
+                                                                             15
+Orientações para o preenchimento dos campos:
+
+
+      Campo                                      Nível de acesso
+                  Não poderá ser anterior ao mês de edição e assinatura do ato (inciso II, §
+Data de início
+                  2º, art. 10 do Decreto nº 8.465/2015)
+
+                  No máximo até o final do exercício (ano civil) vigente
+Data de término
+                  (inciso III, § 2º, art. 10 do Decreto nº 8.465/2015)
+
+Liberação         Se marcado, indica ser uma liberação temporária
+
+Ato normativo     Portaria do titular da Pasta, artigo da Lei específica, etc.
+                  Motivo da dispensa, conforme cada caso, de acordo com a lista de
+Motivo
+                  motivos parametrizada pela Central
+
+
+
+
+ 1.2. No Sistema de Frequência – FRE
+
+ Os servidores que possuem vínculo ativo no RHNet, por padrão, já estarão
+ integrados no FRE, por meio da funcionalidade de “Local de Trabalho” do
+ RHNet. Assim, as ações manuais que devem ser realizadas no FRE, pelo gestor
+ de ponto setorial, são as de concessão de perfis gerenciais no FRE.
+
+
+
+ 1.2.1. No menu “Cadastro”, opção “Gestor Frequência”:
+
+
+
+
+                                                                                           16
+Primeiramente, o FRE traz a lista de todos os perfis concedidos aos servidores
+no órgão de lotação do gestor setorial.
+
+
+a) Na parte 1, é permitido filtrar a relação por CPF, Nome do servidor, Unidade,
+perfil de acesso (Gerente, Superintendente, Secretário, Gestor de RH), Data
+início, Data fim, somente perfis ativos e somente delegações;
+b) Na parte 2 (botão “Novo”), é aberta a tela de “Cadastro Gestor de
+Frequência”, para concessão de um novo perfil;
+c) Na parte 3 (botão de lápis), é aberta a tela de “Cadastro Gestor de
+Frequência”, do servidor selecionado na relação.
+
+
+1.2.2. Na tela de “Cadastro Gestor de Frequência”:
+
+
+
+
+                                                                              17
+a) Na parte 1 – “Dados Pessoais”, é necessário inserir o CPF do servidor e em
+seguida clicar duas vezes no ícone de lupa ou então no botão “Enter” do
+teclado. Logo após, o FRE preencherá o nome do usuário e habilitará as
+demais funcionalidades da tela.
+b) Na parte 2 – “Dados do Perfil”, é possível a concessão do perfil (Terceiro,
+Gerente, Superintendente ou Secretário), preenchendo-se a data de início
+(campo obrigatório) e data fim (campo opcional).
+
+
+                  No   campo    “Data   início”,   sugerimos   que   seja   sempre
+                  preenchido o dia 1º da referência que se encontra aberta no
+                  SFR, para possibilitar as convocações de saldos de horas a
+                  partir daquela referência.
+
+
+c) Na parte 3 – “Dados da Unidade”, é necessário incluir o órgão (limitado ao
+órgão de lotação do gestor setorial) e a unidade administrativa na qual o
+servidor terá o perfil concedido. Logo após, clicar no botão “Adicionar”;
+d) Na parte 4, são relacionados os perfis concedidos para o servidor. No botão
+é possível o encerramento do perfil, com a inclusão da data fim, conforme
+demonstrado abaixo:
+
+
+
+
+                                                                              18
+Ressaltamos que:
+
+a) Para os ocupantes de cargos em comissão das estruturas básica e
+complementar, orienta-se a atribuição do perfil de “Gerente”, por meio do
+qual o chefe imediato conseguirá convocar horas e realizar compensações de
+horas para todos os servidores lotados na unidade administrativa;
+
+
+b) Para os ocupantes de cargos em comissão da estrutura básica, orienta-se
+também a atribuição do perfil de “Superintendente”, através do qual será
+possível a aprovação dos bancos de horas (acima de 8 e até 52 horas) que
+foram convocados pelo chefe imediato para todos os servidores lotados nas
+unidades administrativas vinculadas à Superintendência (ou equivalente);
+
+
+c) Para os ocupantes de cargos em comissão da estrutura básica,
+subordinados diretamente ao titular da Pasta, que não possuam unidades
+hierárquicas superiores (por exemplo, Comunicação Setorial, Procuradoria
+Setorial, Chefia de Gabinete etc.), orienta-se a atribuição dos perfis de
+“Gerente” e “Superintendente”;
+
+
+d) Para o titular da Pasta, orienta-se a atribuição do perfil de “Secretário” no
+GABINETE DO SECRETÁRIO (ou equivalente), por meio do qual será possível a
+aprovação dos bancos de horas (acima de 8 e até 52 horas) que foram
+convocados pelo chefe imediato e aprovados pelo superintendente.
+
+
+
+
+                                                                              19
+1.3. No Portal de Acesso / Segurança :
+
+Para os devidos acessos aos sistemas SFR e FRE, em razão da atual estrutura
+corporativa do Estado, é necessária a concessão dos perfis correspondentes
+no “Portal de Acesso / Segurança”. Assim, ao acessar o sistema, no menu
+“Usuários”, opção “Manutenção de Usuários”, é apresentada a seguinte tela:
+
+
+
+
+Em seguida, digitar o CPF do servidor e selecionar “Editar”. O sistema irá
+apresentar os dados cadastrais do servidor. Logo após, clicar em “Acessos”,
+onde serão relacionados os perfis concedidos ao servidor, conforme
+demonstrado abaixo:
+
+
+
+
+                                                                             20
+Em seguida, no campo “Perfil”, atribuir os seguintes códigos, clicando em
+“Adicionar” logo depois:
+
+
+a) Para o servidor consultar os seus próprios registros nos sistemas SFR e FRE,
+bastam os seguintes perfis:
+
+                Código        Sistema                 Descrição
+                 298               SFR            Usuário Consultas
+                 519               FRE                 Servidor
+
+
+
+b) Para os ocupantes de cargos em comissão da estrutura complementar,
+orienta-se a atribuição dos seguintes perfis:
+
+
+                Código        Sistema                 Descrição
+                 298           SFR                Usuário Consultas
+                 355           SFR               Usuário Coordenador
+                 519           FRE                    Servidor
+                 521           FRE                     Gerente
+
+
+
+c) Para os ocupantes de cargos em comissão da estrutura básica, orienta-se a
+atribuição dos seguintes perfis:
+
+
+                Código        Sistema                 Descrição
+                 298           SFR                Usuário Consultas
+                 355           SFR               Usuário Coordenador
+                 519           FRE                    Servidor
+                 521           FRE                     Gerente
+                 523           FRE              Validador/Homologador
+
+
+
+
+                                                                             21
+2. ENCERRAMENTO DE CADASTRO
+
+
+2.1. No Sistema de Frequência - SFR
+
+
+No caso de necessidade de encerramento do cadastro do servidor no SFR
+(disposição para outro órgão, exoneração etc.), são necessários os seguintes
+passos, nesta ordem:
+
+
+2.1.1. Encerrar dispensa de ponto, se houver
+
+
+Na tela de “Dados do Servidor”, parte de “Dados específicos”, é apresentado
+no campo “Dispensa de ponto” a data final da dispensa de ponto que está
+ativa para o servidor. Assim, no exemplo a seguir, o servidor possui dispensa
+de ponto cadastrada até a data futura de 31/12/2024:
+
+
+
+
+                                                                           22
+No menu “Cadastro”, opção “Dispensa de Ponto”, é possível consultar as
+dispensas de ponto concedidas para o servidor. Para encerrar alguma
+dispensa, é necessário clicar no botão de “Alterar registro” destacado abaixo:
+
+
+
+
+A seguinte tela é mostrada, por meio da qual é possível alterar a data de
+término da dispensa de ponto para o mesmo dia em que será encerrada a
+lotação do servidor no órgão:
+
+
+
+
+            É imprescindível o encerramento da dispensa de ponto do
+            servidor, pois não é possível alterar o órgão de um servidor no
+            SFR com uma dispensa de ponto vigente (sem data de término
+            ou com data de término futura).                                  23
+ 2.1.2. Alterar os níveis de acesso
+
+
+ Após o encerramento da dispensa de ponto vigente, como o SFR mantém as
+ permissões de acesso mesmo com alteração do órgão de lotação do servidor,
+ para que a função de “Homologador” ou “Validador” não seja indevidamente
+ utilizada no novo órgão do servidor, orientamos a alteração do campo “Nível
+ de acesso” para “Somente próprios dados” e do campo “Perfil p/ Ocorrência”
+ para “Servidor”, conforme detalhado no item 1.1.1.
+
+
+
+
+Observação: orientamos que também sejam removidos os códigos de acesso
+que foram concedidos ao servidor no “Portal de Acesso/Segurança”, conforme
+item 1.3 (remoção por meio do ícone de lixeira, conforme demonstrado abaixo).
+
+
+
+
+         Especificamente para o encerramento (ou remoção) de perfil de
+         “Gestor Setorial”, tanto no SFR quanto no FRE, NÃO é necessária a
+         indicação expressa do titular da Pasta. Basta que o(a) Gerente de
+         Gestão e Desenvolvimento de Pessoas ou equivalente solicite a
+         remoção      dos    perfis   de   “Gestor”   por   meio   do   e-mail
+         goiaspontoeletronico@goias.gov.br.                                 24
+2.1.3. Encerrar a lotação
+
+
+Assim, após o encerramento da dispensa e alteração das permissões de
+acesso, deve ser encerrada a lotação do servidor. Para tal, é necessário clicar
+no botão de “Alterar registro” destacado abaixo (passo 1) e preencher com a
+data de término (passo 2) da lotação. Em seguida, clicar em “Adicionar” e
+salvar.
+
+
+
+
+2.1.4. Inativação do vínculo
+
+
+Em caso de exoneração ou concessão de aposentadoria na forma da legislação
+pertinente, o cadastro do servidor deve ser inativado também no SFR, nas
+seguintes etapas:
+
+
+a) Encerrar o vínculo do servidor
+
+
+É necessário clicar no botão de “Alterar registro” destacado abaixo (passo 1) e
+preencher com a data de encerramento do vínculo (passo 2). Em seguida, clicar
+em “Adicionar” e salvar.
+
+
+
+
+                                                                            25
+b) Alterar a situação funcional
+
+
+
+
+                Essa ação deve ser exclusiva para casos específicos (como, por
+                exemplo, exoneração ou concessão de aposentadoria), tendo
+                em vista que ao realizar essa alteração de “Ativo” para “Inativo”
+                no campo de “Situação funcional”, as faltas e atrasos apurados
+                no SFR não serão enviados automaticamente para o RHNet.
+
+2.2. No Sistema de Frequência – FRE
+
+
+Os servidores que possuem vínculo ativo no RHNet, por padrão, já estarão
+integrados no FRE, por meio da funcionalidade de “Local de Trabalho” do
+RHNet. Assim, ao alterar a lotação do servidor no RHNet, este já estará
+atualizado também no FRE.
+
+
+No entanto, orientamos o encerramento dos perfis concedidos para o servidor
+no FRE, conforme explicado no item 1.2.2, alínea “d”. No ícone de lápis é possível
+o encerramento do perfil, com a inclusão da data fim, conforme demonstrado
+abaixo:
+
+
+
+
+                                                                               26
+3. ESCALAS DE HORÁRIO
+
+3.1. Descrição da funcionalidade
+
+
+Escalas de horário podem ser utilizadas para jornadas que são “irregulares”,
+ou seja, que fogem do padrão de uma mesma tabela para todos os dias úteis
+da semana. Assim, por meio desta funcionalidade, é possível incluir
+determinadas tabelas de horários para dias específicos da semana e do mês,
+diferente da tabela de horários da funcionalidade de “Dados do Servidor”
+(que seria a tabela única para todos os dias úteis).
+
+
+A seguir, iremos apresentar esta funcionalidade do SFR e mais adiante, será
+descrito o passo-a-passo de criação de uma nova escala de horário.
+
+
+No menu “Cadastro”, opção “Escalas de Horário”:
+
+
+
+
+Nesta tela é possível:
+
+
+a) Consultar as escalas existentes por meio de pesquisa nos campos “Código”
+   e “Descrição”;
+b) Incluir uma nova escala;
+c) Limpar os campos “Código” e “Descrição”; e
+d) Cancelar e retornar para o menu anterior.
+                                                                          27
+Exemplo de consulta de escalas de horário que possuam a palavra “vapt” na
+descrição:
+
+
+
+
+Ao clicar no:
+
+
+a) ícone 1, é possível editar a escala de horário;
+b) ícone 2, é possível excluir a escala de horário.
+
+
+
+
+                                                                       28
+3.2. Incluir uma nova escala
+
+
+Ao clicar na opção “Incluir”, a seguinte tela é mostrada:
+
+
+
+
+a) No item 1, o SFR irá gerar automaticamente o código da escala de horário
+  depois que ela for criada;
+b) No item 2, é possível a inclusão de uma descrição para a escala de horário
+  (campo de livre digitação);
+c) No item 3, é possível incluir a tabela de horário para cada um dos dias da
+  semana e/ou do mês que o servidor terá uma jornada diferente do
+  habitual.
+
+Para exemplificar cada uma das funcionalidades, será considerado o seguinte
+cenário:
+
+           Um servidor que, em regra, cumpre jornada de 8 (oito) horas diárias
+           e   40   (quarenta)   horas    semanais,   terá,   por   interesse   da
+           Administração e a critério da Pasta, sua jornada ajustada para atuar,
+           em uma determinada semana de outubro, da seguinte forma:
+
+           • 7 (sete) horas de segunda a sexta-feira; e
+           • 5 (cinco) horas no sábado.
+
+           Neste exemplo, o servidor cumpriria normalmente as 40 (quarenta)
+           horas na semana, relacionado ao seu cargo.                           29
+3.2.1. Descrição e tabelas
+
+
+A imagem a seguir demonstra o preenchimento da nova escala de horário:
+
+
+
+
+Neste exemplo, após o preenchimento da descrição e da inclusão dos dias
+específicos em que o servidor estará sujeito às tabelas de horário nº 2844 (7
+horas diárias) e nº 2865 (5 horas diárias), ao clicar em “Confirmar”, o SFR gerou
+automaticamente o código da escala nº 301115 e habilitou duas novas opções
+na tela: “Servidores” (1) e “Calendários” (2).
+
+
+
+             Conforme o registro acima, o SFR irá lançar as tabelas para os
+             dias 26 a 31/05, gerando dias úteis para todos esses dias,
+             inclusive se forem sábados, domingos ou feriados, podendo
+             gerar faltas indevidas.
+
+
+
+
+                                                                               30
+3.2.2. Calendários
+
+
+A imagem a seguir demonstra a inclusão de um calendário na escala de
+horário criada:
+
+
+
+
+a) No item 1, é necessário consultar o calendário (mês/ano no formato
+   “mm/aaaa”) antes de incluir;
+b) No item 2, após a consulta, é mostrada a legenda para a inclusão dos
+   eventos (dia útil, folga, feriado ou ponto facultativo) no calendário, de
+   forma que é necessário selecionar o tipo do evento e, após, marcar no
+   calendário do lado esquerdo os dias em que o evento selecionado ocorrerá
+   (no nosso exemplo, além de segunda a sexta-feira, o sábado, dia
+   31/05/2025, será um dia útil para o servidor), clicando em “Adicionar” e
+   “Confirmar” posteriormente;
+c) No item 3, são mostrados os calendários que estão inclusos na escala,
+   sendo possível editar   ou excluir    o calendário.
+
+              Os eventos lançados no calendário geral (feriados e pontos
+
+              facultativos lançados pela unidade central), NÃO refletem no
+              calendário da escala, sendo necessário também o lançamento
+              destes eventos no calendário específico da escala.          31
+3.2.3. Servidores
+
+
+Por fim, após a inclusão das tabelas e dos calendários da escala, é necessário
+vincular o CPF dos servidores que estarão sujeitos àquela escala, conforme
+demonstrado abaixo:
+
+
+
+
+a) No item 1, é necessário selecionar o(s) servidor(s) por meio de alguma das
+   seguintes opções:
+
+
+          i.    Servidor: é necessário preencher o CPF do servidor, clicar no
+                botão com os três pontinhos, após o SFR irá trazer o nome do
+                servidor e, após, é necessário clicar no botão “+” para incluir o
+                servidor na escala; logo após, o CPF e nome do servidor são
+                relacionados na parte 2;
+
+
+          ii.   Unidade Administrativa: é possível selecionar uma unidade
+                administrativa por meio do código dela e clicar no botão com os
+                três pontinhos; após, o SFR irá exibir os servidores lotados na
+                unidade administrativa, permitindo que um ou mais, ou todos,
+                sejam selecionados para inclusão na escala;
+
+                                                                               32
+          iii. Tabela de Horário: de forma semelhante que a unidade
+              administrativa, é possível selecionar uma tabela de horário por
+              meio do código dela e clicar no botão com os três pontinhos;
+              após, o SFR irá exibir os servidores que estão sujeitos àquela
+              tabela de horário, permitindo que um ou mais, ou todos, sejam
+              selecionados para inclusão na escala;
+
+
+b) No item 2, são mostrados os servidores selecionados que estarão sujeitos
+   àquela escala, sendo possível excluir   algum deles, se necessário.
+
+
+            Se não for incluído o CPF do servidor, a escala de horário
+
+            NÃO irá refletir no demonstrativo de frequência do servidor.
+
+
+3.3 Demonstrativo de frequência atualizado
+
+
+Após a inclusão da escala e vinculação do CPF do servidor, é possível a
+consulta ao demonstrativo de frequência daquele mês para verificar se a
+escala refletiu devidamente na frequência do servidor:
+
+
+
+
+Conforme o exemplo, o servidor estará sujeito à tabela nº 2844 de segunda a
+sexta-feira (dias 26 a 30/05/2025) e à tabela nº 2865 no sábado (dia
+31/05/2025), sendo todos esses dias considerados úteis e passíveis de registro
+de falta pelo próprio SFR.
+                                                                            33
+Além disso, por meio do relatório “Emitir Servidor por Escala”, é possível
+emitir se o servidor possui alguma escala vinculada no SFR, conforme
+demonstrado abaixo:
+
+
+Tela para emissão do relatório:
+
+
+
+
+Relatório em PDF:
+
+
+
+
+             Recomenda-se, como boa prática, a criação de uma escala
+             individual por servidor, com nome completo e CPF na
+             descrição, para facilitar a gestão da equipe e a identificação
+             das escalas.
+
+
+
+

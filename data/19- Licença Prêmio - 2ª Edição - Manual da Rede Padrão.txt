@@ -1,0 +1,224 @@
+# Secretaria de Estado da Administração
+
+Manual de Procedimentos
+Licença-Prêmio
+2ª Edição
+
+Fevereiro/2025
+
+# Sumário
+
+**Objetivo ...... 3**
+**Aplicação ...... 3**
+**Legislação ...... 4**
+**Disposições Gerais ...... 5**
+1. Conforme disposto na Lei nº 10.460/88 ...... 5
+2. Conforme disposto na Lei nº 20.756/2020...... 7
+3. Conforme disposto no Decreto nº 9.802/2021...... 7
+**Procedimentos Gerais ...... 8**
+1. Servidor lotado no órgão de origem ...... 8
+2. Servidor à disposição ou cedido ...... 9
+3. Langamento no Rhnet ...... 11
+4. Fluxograma do processo ...... 11
+
+# Objetivo
+
+O presente manual visa padronizar e direcionar as atividades administrativas e procedimentais relativas à concessão de licença-prêmio na Administração Pública direta, autárquica e fundacional do Poder Executivo.
+
+## Aplicação
+
+Este manual tem abrangência no âmbito das competências regimentais das unidades setoriais de gestão e desenvolvimento de pessoas da Administração Pública Estadual direta, autárquica e fundacional.
+
+# Legislação
+
+Lei n° 10.460, de 22 de fevereiro de 1988, estatuto dos
+funcionários públicos civis do Estado de Goiás e de suas
+autarquias.
+
+Lei n° 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+Decreto n° 9.802, de 26 de janeiro de 2021, que dispõe sobre
+a regulamentação dos procedimentos que envolvem a
+execução, a estruturação, a organização, a padronização e
+a gestão da folha de pagamento na administração direta,
+autárquica e fundacional do Poder Executivo do Estado de
+Goiás.
+
+# Disposições Gerais
+
+## 1. Conforme disposto na Lei n° 10.460/88:
+
+**Art. 243. A cada quinquênio de efetivo exercício prestado ao Estado, na**
+**condição de titular de cargo de provimento efetivo, o funcionário terá direito à**
+**licença-prêmio de 3 (três) meses, a ser usufruída em até 3 (três) períodos de, no**
+**mínimo, 1 (um) mês cada, com todos os direitos e vantagens do cargo.**
+
+**Parágrafo único. O funcionário ao entrar em gozo de licença-prêmio**
+**perceberá, durante esse período, o vencimento do cargo de provimento**
+**efetivo acrescido das vantagens pecuniárias a que fizer jus, previstas nas**
+**alíneas “a”, “m” e “n” do inciso III do art. 139 deste Estatuto.**
+
+**Art. 244 - Em caso de acumulação de cargos, a licença-prêmio será concedida**
+**em relação a cada um deles simultaneamente ou separadamente.**
+
+**Parágrafo único - Será independente o cômputo do quinquênio em relação a**
+**cada um dos cargos.**
+
+**Art. 245 - Suspende a contagem do tempo de serviço para efeito de apuração**
+**do quinquênio:**
+**I - licença para tratamento da própria saúde, até 90 (noventa) dias,**
+**consecutivos ou não;**
+**II - licença por motivo de doença em pessoa da família até 60 (sessenta) dias,**
+**consecutivos ou não;**
+**III - falta injustificada, não superior a 30 (trinta) dias no quinquênio.**
+
+**Parágrafo único - Para os efeitos deste artigo, suspensão é a cessação**
+**temporária da computação do tempo, sobrestando-o a contar do início de**
+**determinado ato jurídico-administrativo e reiniciando-se a sua contagem a**
+**partir da cessação do mesmo.**
+
+Art. 246 - Interrompe a contagem do tempo de serviço para efeito de apuração
+do quinquênio:
+I - licença para tratamento da própria saúde, por prazo superior a 90 (noventa)
+dias, consecutivos ou não;
+II - licença por motivo de doença em pessoa da família por prazo superior a 60
+(sessenta) dias, consecutivos ou não;
+III - licença para tratar de interesses particulares;
+IV - licença para atividade política; V - falta injustificada, superior a 30 (trinta)
+dias no quinquênio;
+VI - pena de suspensão.
+
+Parágrafo único - Interrupção, para os efeitos deste artigo, é a solução de
+continuidade na contagem do tempo, fazendo findar seus efeitos a contar de
+determinado ato jurídico-administrativo, para dar início a nova contagem a
+partir da cessação do referido ato.
+
+Art. 247 - Para apuração do quinquênio computar-se-á, também, o tempo de
+serviço prestado anteriormente em outro cargo estadual, desde que entre um
+e outro não haja interrupção de exercício por prazo superior a 30 (trinta) dias.
+
+Art. 248 - Para efeito de aposentadoria será contado em dobro o tempo de
+licença-prêmio que o funcionário não houver gozado.
+
+Art. 248-A. Os períodos de licença-prêmio não usufruídos pelo servidor,
+quando em atividade, não poderão ser convertidos em pecúnia, exceto na
+hipótese de indeferimento do pedido de gozo em razão de necessidade do
+serviço público.
+
+## 2. Conforme disposto na Lei n° 20.756/2020:
+
+Art. 290. Os períodos de licença prêmio adquiridos até a vigência* desta Lei poderão ser usufruídos, assegurada a remuneração ou o subsídio integral do cargo.
+
+§ 1º Fica resguardado o direito ao cômputo do tempo de serviço residual para efeitos de concessão da licença para capacitação
+
+§ 2º Considera-se como de efetivo exercício o afastamento motivado pela fruição de licença prêmio na forma do caput.
+
+§ 3º Aos períodos de licença-prêmio adquiridos até 16 de dezembro de 1998 fica assegurada a possibilidade de contagem em dobro.
+
+*Vigência da Lei 20.756/2020: 28/07/2020
+
+## 3. Conforme disposto no Decreto n° 9.802/2021:
+
+Art. 26. O afastamento relacionado com os motivos discriminados a seguir deverá ser solicitado pelo servidor com a antecedência mínima de 60 (sessenta) dias, e o processo administrativo que cuidará do ato concessivo deverá aportar na Unidade Setorial de origem com no mínimo 45 (quarenta e cinco) dias do início da fruição de:
+I – licença-prêmio;
+(...)
+
+§ 1º O servidor deverá aguardar em exercício até que tenha ciência do ato concessório terminativo.
+
+§ 2º O processo administrativo que cuidará do ato concessivo de que trata o parágrafo antecedente deverá retornar ao órgão ou à entidade de lotação do requisitante antes do início do usufruto.
+
+# Procedimentos Gerais
+
+1. Servidor lotado no órgão de origem:
+
+1. Servidor autua processo no SEI com formulário licença-prêmio
+devidamente preenchido e assinado.
+
+2. Chefia imediata manifesta sobre a concordância ou não da licença.
+
+3. Os autos são encaminhados à Gerência de Gestão e Desenvolvimento de
+Pessoas – GCDP ou equivalente, do órgão de origem do servidor. Prazo
+mínimo de 60 dias anteriores ao usufruto do benefício.
+
+4. GCDP encaminha os autos à Corregedoria-Geral do Estado ou equivalente
+para análise quanto a processo administrativo disciplinar (ou, caso tenha
+acesso ao sistema da CGE, faz a consulta).
+
+5. Caso esteja respondendo processo administrativo disciplinar, a GCDP
+elabora histórico funcional e despacho sugerindo o indeferimento da
+licença.
+
+6. GCDP envia os autos ao Gabinete do titular da Pasta para manifestação
+final.
+
+7. Após o retorno dos autos à GCDP, encaminha-se ao servidor para ciência
+acerca do indeferimento.
+
+8. Caso não tenha processo administrativo disciplinar em desfavor do
+servidor ou não esteja cumprindo penalidade, a GCDP elabora histórico
+funcional e despacho sugerindo o deferimento da licença.
+
+9. GCDP encaminha os autos ao Gabinete do titular da Pasta para
+manifestação final.
+
+10. Após o retorno dos autos, a GCDP lança no RHnet e encaminha os autos
+para ciência do servidor e sua chefia imediata.
+
+# Procedimentos Gerais
+
+## 2. Servidor à disposição ou cedido:
+
+1. **Servidor** autua processo no SEI com formulário licença-prêmio devidamente preenchido e assinado.
+
+2. Chefia imediata manifesta sobre a concordância ou não da licença.
+
+3. Os autos são encaminhados à Gerência de Gestão e Desenvolvimento de Pessoas – GGDP ou equivalente, do órgão de lotação atual. Sugestão de prazo mínimo de 60 dias anteriores ao usufruto do benefício.
+
+4. GGDP de lotação faz histórico funcional (para analisar se houveram afastamentos que suspendem ou interrompem a contagem de tempo de efetivo exercício) e encaminha os autos à GGDP do órgão de origem para análise.
+
+5. A GGDP de origem envia os autos à Corregedoria-Geral do Estado ou equivalente para análise quanto a processo administrativo disciplinar (ou, caso tenha acesso ao sistema da CGE, faz a consulta).
+
+6. Caso esteja respondendo processo administrativo disciplinar, a GGDP de origem elabora histórico funcional completo e despacho sugerindo o indeferimento da licença.
+
+7. GGDP de origem envia os autos ao Gabinete do titular da Pasta para manifestação final.
+
+8. Após o retorno dos autos à GGDP de origem, essa encaminha os autos à GGDP de lotação para ciência do servidor acerca do indeferimento.
+
+9. Caso não tenha processo administrativo disciplinar em desfavor do servidor ou não esteja cumprindo penalidade, a GGDP de origem elabora histórico funcional e despacho sugerindo o deferimento da licença.
+
+10. GGDP de origem encaminha os autos ao Gabinete do titular da Pasta para manifestação final.
+
+11. Após o retorno dos autos, a GGDP ou equivalente da origem encaminha os autos à GGDP ou equivalente do órgão de lotação para que essa faça o lançamento no Rhnet e cientifique o servidor e sua chefia imediata.
+
+# Procedimentos Gerais
+
+**Observação:**
+
+**Conforme Despacho n° 142/2025/GAB/PGE, de 13 de fevereiro de 2025:**
+
+**i) ainda que inexista regra proibitiva para o requerimento de licença-prêmio**
+**ou de licença para tratar de interesses pessoais durante o período de prova do**
+**Termo de Ajustamento de Conduta, a concessão implica afastamento**
+**espontâneo pelo servidor de suas atribuições, o que caracteriza o**
+**descumprimento do TAC e autoriza a invocação do art. 257 da Lei estadual n°**
+**20.756, de 2020, para a imediata aplicação da penalidade objetivamente**
+**definida em seu instrumento;**
+
+**ii) os Termos de Ajustamento de Conduta devem passar a prever**
+**expressamente que o afastamento espontâneo do compromissário durante o**
+**período de prova, e antes do adimplemento, configura descumprimento do**
+**ajuste, a fazer incidir a norma do art. 257 da Lei estadual n° 20.756, de 2020, de**
+**modo a permitir a aplicação da penalidade objetiva fixada e a inabilitação**
+**correlata.**
+
+# Procedimentos Gerais
+
+## 3. Lançamento no Rhnet:
+
+**Cadastro → Ocorrência Servidor → Afastamento → código 746 (Licença Prêmio CLT) ou código 65 (Licença Prêmio)** → **Digitar CPF → Incluir → Vínculo → Colocar a data de início da licença → Colocar a quantidade de meses de licença → Diploma legal: o documento concessório → tipo de processo:**
+**Administrativo → OK**
+
+**No campo Histórico/Observação, preencher com o número do processo.**

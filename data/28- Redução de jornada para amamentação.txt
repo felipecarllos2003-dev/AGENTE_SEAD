@@ -1,0 +1,98 @@
+Secretaria de Estado da Administração
+Manual de Procedimentos
+Redução de jornada para amamentação
+Junho/2025
+
+Sumário
+Objetivo ...... 3
+Aplicação ...... 3
+Legislação ...... 4
+Disposições Gerais ...... 5
+Procedimentos Gerais ...... 6
+Lançamento no SFR ...... 7
+02
+
+Objetivo
+O presente manual visa padronizar e direcionar as atividades administrativas e procedimentais relativas a redução de jornada para amamentação na Administração Pública direta, autárquica e fundacional do Poder Executivo.
+
+Aplicação
+Este manual tem abrangência no âmbito das competências regimentais das unidades setoriais de gestão e desenvolvimento de pessoas da Administração Pública Estadual direta, autárquica e fundacional.
+03
+
+Legislação
+Lei n° 20.756, de 28 de janeiro de 2020, que dispõe sobre o regime jurídico dos servidores públicos civis do Estado de Goiás, das autarquias e fundações públicas estaduais, e dá outras providências.
+Decreto n° 8.465, de 05 de outubro de 2015, que regulamenta o controle de frequência do servidor da administração direta, autárquica e fundacional do Poder Executivo.
+Instrução Normativa n° 009/2015-GAB, que dispõe sobre normas complementares do sistema de registro e controle eletrônico da frequência dos servidores públicos da Administração direta, autárquica e fundacional do Poder Executivo e dá outras providências.
+Lei n° 20.918, de 21 de dezembro de 2020, dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do art. 92, inciso X, da Constituição do Estado de Goiás, e dá outras providências.
+04
+
+Disposições Gerais
+1. Conforme disposto na Lei n° 20.756/2020:
+Art. 152 Após o término da licença, a servidora disporá de uma hora por dia, que poderá ser parcelada em 2 (dois) períodos de 30 (trinta) minutos cada, para amamentação do filho, até os 12 (doze) meses de idade.
+2. Conforme disposto na Lei n° 20.918/2020:
+Art. 10
+...
+IV - aplicam-se, no que couber, as disposições estatutárias que forem pertinentes a cada caso, relativamente aos seguintes institutos:
+a) diárias;
+b) ajuda de custo;
+c) férias;
+d) adicional de férias;
+e) auxílio-alimentação;
+f) licença maternidade;
+g) licença paternidade;
+h) casamento; e
+i) luto;
+j) vale-transporte; e
+...
+Observação: A redução de jornada para amamentação NÃO é contemplada pela lei que dispõe sobre contratação por tempo determinado.
+05
+
+Procedimentos Gerais
+Servidora:
+Autua processo no SEI, inclui o requerimento “Redução de Jornada para amamentação – Modelo Rede” devidamente preenchido e assinado, anexa o certidão de nascimento do filho e encaminha para Gerência de Gestão e Desenvolvimento de Pessoas - GGDP ou equivalente.
+
+Gerência de Gestão e Desenvolvimento de Pessoas ou equivalente:
+- Analisa a documentação, faz o despacho concessivo, no qual deve informar a data de início, que deve ser a chegada dos autos à unidade de gestão e desenvolvimento de pessoas ou equivalente, e data fim, que deve ser o dia do aniversário de um ano da criança.
+- Após, deve encaminhar para o Gestor do Ponto do órgão fazer a inclusão no Sistema de Frequência, concomitamente, para a servidora e sua chefia imediata terem ciência.
+- Após, arquivar o processo no dossiê.
+06
+
+Procedimentos Gerais
+Lançamento no SFR
+Menu "Cadastro", opção "Ocorrência do Servidor pela Chefia Imediata".
+1. Para o lançamento por dia:
+- Preencher com o CPF e a referência (mês/ano) no formato "mm/aaaa" e clicar em "Pesquisar";
+- Selecionar o tipo de ocorrência "DISPENSA DE 1 (UMA) HORA POR DIA PARA AMAMENTAÇÃO DO FILHO ATÉ 12 (DOZE) MESES DE IDADE..." no campo em branco da primeira linha da tabela;
+- Marcar o dia a ser lançada a ocorrência no quadrado ao final de cada dia;
+- Preencher com a quantidade de horas e minutos no formato "00:00" e o motivo no campo ao lado;
+- Clicar em "Salvar" no final da página.
+2. Para o lançamento por período:
+- Preencher com o CPF e a referência (mês/ano) no formato "mm/aaaa" e clicar em "Pesquisar;
+- Marcar a opção "Por Período" abaixo da referência;
+- Selecionar o dia inicial e o dia final daquela referência;
+- Preencher com a quantidade de horas e minutos no formato "00:00";
+- Selecionar o tipo de ocorrência "DISPENSA DE 1 (UMA) HORA POR DIA PARA AMAMENTAÇÃO DO FILHO ATÉ 12 (DOZE) MESES DE IDADE...";
+- Preencher o "Motivo" da ocorrência;
+- Clicar em "Incluir".
+07
+
+Gerência da Rede de Gestão e Desenvolvimento de Pessoas
+Equipe Técnica-GT Assentamento Digital
+Antonio Albino Silva Junior
+Cláudia Ferreira de Azevedo Faria
+Caio Cesar Silva Oliveira
+Cleyser Alves de Souza
+Diogo Curado de Oliveira
+Douglas de Oliveira Barbosa
+Elieser da Silva Rodrigues
+Ester Teixeira Martins
+Glauco Vitti Bonturi
+Jhonatas dos Santos Lima
+Juarez Pereira de Freitas Júnior
+Kamilla Ferreira Lemos da Costa
+Karen de Oliveira Santos
+Kelly Ribeiro Ramos
+Kenia Cristina Lacerda
+Larissa de Gouveia Coelho
+Lilian Beatriz Jaime
+08

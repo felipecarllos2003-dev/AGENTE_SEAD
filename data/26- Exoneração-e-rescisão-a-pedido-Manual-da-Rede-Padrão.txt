@@ -1,0 +1,324 @@
+ Secretaria de Estado da Administração
+
+
+
+
+Manual de
+Procedimentos
+
+Exoneração e rescisão de
+contrato celetista
+a pedido
+
+
+
+
+                         Abril/2025
+                                       Sumário
+
+
+Objetivo ......................................................................................... 3
+
+Aplicação ...................................................................................... 3
+
+Legislação .................................................................................... 4
+
+Disposições Gerais ...................................................................... 5
+
+Procedimentos Gerais ................................................................ 8
+
+Documentação necessária .......................................................8
+
+Exoneração a pedido .................................................................. 8
+
+ Rescisão de contrato de celetista ............................................9
+
+Fluxogramas .............................................................................. 10
+
+Lançamentos ............................................................................... 11
+
+
+
+                             2
+
+
+
+
+                                                                                               2
+                         Objetivo
+
+O presente manual visa padronizar e direcionar as
+atividades administrativas e procedimentais relativas à
+exoneração e rescisão de contrato a pedido do servidor na
+Administração Pública direta, autárquica e fundacional do
+Poder Executivo.
+
+
+
+
+                        Aplicação
+
+Este manual tem abrangência no âmbito das competências
+regimentais   das      unidades   setoriais   de   gestão       e
+desenvolvimento de pessoas da Administração Pública
+Estadual direta, autárquica e fundacional.
+                   3
+
+
+
+
+                                                            3
+                     Legislação
+
+
+Lei nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o
+regime jurídico dos servidores públicos civis do Estado de
+Goiás, das autarquias e fundações públicas estaduais, e
+dá outras providências.
+
+
+Decreto n° 9.802, de 26 de janeiro de 2021, que dispõe sobre
+a regulamentação dos procedimentos que envolvem a
+execução, a estruturação, a organização, a padronização e
+a gestão da folha de pagamento na administração direta,
+autárquica e fundacional do Poder Executivo do Estado de
+Goiás.
+
+
+Lei n° 20.918, de 21 de dezembro de 2020, que dispõe sobre a
+contratação por tempo determinado para atender a
+necessidade temporária de excepcional interesse público,
+                 4
+
+
+
+nos termos do art. 92, inciso X, da Constituição do Estado
+de Goiás, e dá outras providências.
+
+
+
+
+                                                         4
+                                                    Disposições Gerais
+
+Conforme disposto na Lei n° 20.756/2020:
+
+Art. 58. A vacância do cargo público decorre de:
+I - exoneração;
+(...)
+
+
+Art. 59. A exoneração de cargo de provimento efetivo dá-se a pedido do servidor
+ou de ofício.
+Parágrafo único. A exoneração de ofício ocorre, exclusivamente, quando o
+servidor:
+I - for reprovado no estágio probatório;
+II - depois de tomar posse, não entrar em exercício no prazo estabelecido;
+III - for investido em cargo, emprego ou função pública incompatível com o de
+que é ocupante, exceto na hipótese de vacância do primeiro;
+IV - na hipótese de abandono de cargo, quando extinta a punibilidade por
+prescrição.
+
+
+Art. 60. A exoneração de cargo em comissão dar-se-á:
+I - a critério da autoridade competente para o respectivo provimento;
+                                      5
+
+
+II - a pedido do servidor.
+
+
+Art. 61. A exoneração a pedido será precedida de requerimento escrito do
+próprio interessado e encontra-se vedada àquele que estiver respondendo a
+processo administrativo disciplinar ou cumprindo penalidade.
+
+
+
+
+                                                                             5
+Conforme disposto no Decreto n° 9.802/2021:
+
+
+Art. 27. Nos casos de demissão, exoneração, aposentadoria ou vacância, o
+servidor tem direito de receber os créditos a que faz jus até a data do evento,
+isto é, até o dia anterior ao do ato do seu desligamento.
+
+
+§ 1º O disposto neste artigo aplica-se, inclusive, aos casos de dispensa da função
+comissionada, de GRG ou de exoneração de cargo em comissão, quando:
+I – seguidos de nomeações sucessivas; ou
+II – tratar– se de servidor, hipótese em que ele fará jus à percepção proporcional
+dos créditos decorrentes, inclusive o décimo terceiro salário e as férias,
+observado o disposto no art. 15 deste Decreto.
+
+
+§ 2º Apenas o período de exercício do encargo é considerado para o acerto do
+décimo terceiro salário e das férias do servidor dispensado de função
+comissionada ou GRG ou exonerado de cargo de provimento em comissão.
+
+
+                                      6
+
+
+
+
+                                                                              6
+§ 3º Nos casos de demissão, vacância ou exoneração de cargo de provimento
+efetivo ou em comissão, ou aposentadoria, tanto as férias não gozadas quanto
+as proporcionais deverão ser indenizadas com base na remuneração ou
+subsídio devido no mês da ocorrência do evento, com o acréscimo do adicional
+de férias.
+(...)
+
+
+§ 6º    Ao servidor, nas situações de demissão, exoneração, vacância ou
+aposentadoria, será devido o décimo terceiro salário, na proporção de 1/12 (um
+doze avos) por mês de efetivo exercício, e terá como base de cálculo a
+remuneração percebida no mês de acerto do servidor, com a dedução do
+adiantamento, se for o caso.
+(...)
+
+
+Art. 30. Em caso de demissão, exoneração, aposentadoria ou vacância, poderá
+ser realizado o encontro de contas entre os créditos líquidos, certos e exigíveis a
+que faz jus até a data do evento referentes ao cargo em questão e os débitos
+decorrentes do acerto.
+                                      7
+
+
+
+
+                                                                                7
+                                                Procedimentos Gerais
+
+Documentação necessária
+
+- RG e CPF ou CNH
+- Comprovante de Endereço
+- Formulário de Exoneração ou Rescisão de Contrato – Modelo Rede
+
+
+
+
+Exoneração a pedido
+
+
+1. O servidor autua o processo, preenche o formulário, inclui a documentação e
+   encaminha para a Gerência de Gestão e Desenvolvimento de Pessoas - GGDP
+   do orgão de lotação.
+2. A GGDP analisa pedido e encaminha para a Corregedoria.
+3. Corregedoria faz a verificação de PAD, TAC e sindicância, emite a declaração
+   e devolve o processo para a GGDP.
+4. Se a declaração da Corregedoria for de nada consta, a GGDP realiza o acerto
+   financeiro e lança a exoneração no RHnet.
+5. A GGDP elabora o despacho comunicando sobre a exoneração e encaminha
+   para o Titular da pasta assinar.
+                                      8
+
+
+
+
+6. O Titular da pasta recebe o processo, e encaminha para a Casa Civil publicar
+   no Diário oficial a exoneração.
+
+
+
+OBSERVAÇÕES:
+- Servidor comissionado ou efetivo não pode pedir exoneração se estiver
+
+respondendo PAD, TAC ou sindicância.
+- Se for servidor efetivo, o órgão de lotação faz o acerto, lança a exoneração nos
+  sistemas RHnet e SFR.
+- Após pagar o acerto, ou seja, no mês seguinte ao lançamento encaminha para
+o órgão de origem providenciar a publicação.                                  8
+                                               Procedimentos Gerais
+
+Rescisão de contrato de Celetista
+
+•   Todo o procedimento ocorre no órgão de origem.
+•   Ocorre por: iniciativa do empregado, justa causa ou rescisão compúlsoria.
+1. O servidor autua o processo, preenche o formulário Exoneração ou Rescisão
+    de Contrato – Modelo Rede, inclui a documentação e encaminha para a
+    Gerência de Gestão e Desenvolvimento de Pessoas – GGDP.
+2. A GGDP analisa o pedido e encaminha para a Corregedoria para verificação
+    de PAD, TAC e sindicância.
+3. Corregedoria, emite a declaração ou certidão e devolve o processo para a
+    GGDP.
+4. Se a declaração ou certidão da Corregedoria for de "nada consta", a GGDP
+    encaminha o processo para a Diretoria-Executiva de Saúde e Segurança do
+    Servidor -DESSS, que se encarregará de marcar a perícia e emitir o exame
+    demissional.
+5. Com o exame demissional expedido pela DESSS, a GGDP elabora o Termo de
+    Rescisão do Contrato e encaminha para o Titular da pasta assinar.
+6. A GGDP elabora o despacho comunicando a Gerência Central da Folha de
+    Pagamento da SEAD sobre a rescisão.
+7. A Gerência Central da Folha de Pagamento elabora o demonstrativo
+                                    9
+
+
+
+
+    financeiro, solicita o recurso para a Secretaria de Estado da Economia, e
+    devolve o processo para GGDP.
+8. A GGDP lança os valores no RHNet, manda para o financeiro providenciar o
+    pagamento que deve ser efetuado em 10 dias. Caso contrário, há incidência
+    de multa.
+
+
+OBSERVAÇÕES:
+A GGDP encaminha o processo para o financeiro fazer o pagamento, faz a
+inclusão dos acertos no RHNet apenas para demonstração e as anotações na
+carteira de trabalho.
+                                                                                9
+                                    Procedimentos Gerais
+
+
+Fluxogramas
+
+
+Solicitar exoneração
+
+
+Rescindir contrato celetista
+
+
+
+
+                               10
+
+
+
+
+                                                      10
+                                                   Procedimentos Gerais
+
+Lançamentos No Rhnet
+Exoneração a pedido:
+Lançar a exoneração:
+Cadastro → Ocorrências Servidor → Exclusão → Tipo Ocorrência: Exclusão código 32
+(Exoneração a pedido) → Digitar CPF → Incluir → Vínculo (ir na setinha e selecionar o
+cargo) → Data de início da exoneração → Diploma legal (lançar os dados conforme
+está no documento) → Histórico (lançar os dados do documento) → OK
+
+
+OBSERVAÇÕES.:
+- Folha fechada para lançamentos:
+Caso a exoneração ocorra após o fechamento da folha para lançamentos, registre a
+data de término como o dia 01 do mês seguinte. Isso garantirá a correta geração dos
+acertos. Inclua uma justificativa nas observações, informando o motivo da utilização
+da data ajustada.
+- Folha aberta para lançamentos:
+Se a folha ainda estiver aberta para lançamentos, utilize a data real da exoneração,
+desde que a data que deseja ser exonerado seja dentro do mês da folha de
+pagamento em elaboração.
+Gerar o demonstrativo on-line para verificar os lançamentos.
+
+
+Rescisão contratual de celetista a pedido:
+Lançar a rescisão:
+Cadastro    →    Ocorrências    Servidor   →    Exclusão       →   Tipo   Ocorrência:
+Rescisão do contrato de trabalho por iniciativa do empregado – Pedido de demissão
+→ código 113 → Digitar CPF → Incluir → Vínculo (ir na setinha e selecionar o cargo) →
+Data de início da Rescisão → Diploma legal (lançar os dados conforme está no
+documento) → Histórico (lançar os dados do documento) → OK
+                                                                             11
